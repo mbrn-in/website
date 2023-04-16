@@ -1,0 +1,108 @@
+<header>
+    <!-- Header desktop -->
+    <div class="wrap-menu-header gradient1 trans-0-4">
+        <div class="container h-full">
+            <div class="wrap_header trans-0-3">
+                <!-- Logo -->
+                <div class="logo">
+                    <a href="/">
+                        <img src="https://res.cloudinary.com/mbrn/image/upload/w_90,h_50/v1590377192/logo_mtx3rw.png" alt="IMG-LOGO" data-logofixed="images/icons/logo2.png">
+                    </a>
+                </div>
+
+                <!-- Menu -->
+                <div class="wrap_menu p-l-45 p-l-0-xl">
+                    <nav class="menu">
+                        <ul class="main_menu">
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            
+                            <li>
+                                <a href="/">Events Blog</a>
+                            </li>
+                         
+                            <li>
+                                <a href="https://drive.google.com/open?id=1Bk-808ZvdIr2OfPGNN4NHzD5vi6pTYp1">AVC audios</a>
+                            </li>     
+                        </ul>
+                    </nav>
+                </div>
+
+                <!-- Social -->
+                <div class="social flex-w flex-l-m p-r-20">
+                   <button type="button" class="buttonsearch p-r-7" id="buttonsearch">
+                        <i class="glyphicon fa fa-search faa-pulse animated fa-2x"></i>
+                    </button>
+                    <a href="https://www.youtube.com/channel/UCf5tavUdZZX_4mUCHyq3lTw" title="Visit our YouTube channel" class="fs-15 c-white"><i class="fa fa-youtube fa-2x fa_1"></i></a>
+                    <div class="container_9 div-show-sidebar m-l-21" title="Menu">
+                        <div class="holder">
+                          <div class="bar1"></div>
+                          <div class="bar2"></div>
+                          <div class="bar3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Search bar after div class="wrap_header trans-0-3"  -->
+            <div id="overlay"> </div>
+            <div class="row justify-content-center">
+            <div class="searchbardiv col-md-6" id="formsearch">
+            <h4 class="srch_head p-b-15 t-center">
+                <div class="tit2">Search</div> 
+                <div class="spcl">Events</div>
+            </h4>
+            <form method="get" action="" id="searchform" autocomplete="off">
+                 
+                    <div class="input-group" id="bord">
+                        <input type="hidden" name="use" value="search"/>
+                        <input type="text" id="searchbox" class="form-control" placeholder="start typing to see suggestions" name="search_in" id="s"/>
+                        <div class="hidn btn bg-transparent" id="cross" style="margin-left: -40px; z-index: 100;"><i class="fa fa-times"></i></div>
+                        <input type="hidden" name="id_sel" id="id_sel" value=""/>
+                        
+                    <div class="input-group-btn" id="btn">
+                        <button class="btn btn-default"  id="searchsubmit" type="submit" style="box-shadow: none !important;">
+                        <i class="fa fa-arrow-right"></i>
+                        </button>
+                    </div>
+                    </div>
+                    <p id="yr" class="p-t-10">You are searching events of (2019-2023)</p>
+                    <!-- . Click <a>here <i class="fa fa-external-link" aria-hidden="true"></i></a> for others  -->
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</header>
+
+{{ if not .IsHome }}
+
+<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" 
+        style="background-image: url(https://res.cloudinary.com/mbrn/image/upload/v1590592461/final_lvxzw0.jpg)">
+<h2 class="tit6 t-center">Events Blog</h2></section>  
+
+{{ end }}
+
+<!-- Sidebar -->
+<aside class="sidebar trans-0-4">
+    <!-- Button Hide sidebar -->
+    <button class="btn-hide-sidebar ti-close color0-hov trans-0-4"></button>
+
+    <!-- - -->
+    <ul class="menu-sidebar p-t-95 p-b-70">
+
+        <li class="t-center m-b-13">
+            <a href="/" class="txt19">Home</a>
+        </li>
+
+        <li class="t-center m-b-13">
+            <a href="/" class="txt19">Events Blog</a>
+        </li>
+
+        <li class="t-center m-b-33">
+            <a href="https://drive.google.com/open?id=1Bk-808ZvdIr2OfPGNN4NHzD5vi6pTYp1" class="txt19">AVC audios</a>
+        </li>
+
+    </ul>
+
+</aside>

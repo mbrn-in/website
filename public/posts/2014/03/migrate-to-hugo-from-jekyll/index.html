@@ -1,0 +1,481 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta property="og:title" content="Migrate to Hugo from Jekyll" />
+<meta property="og:description" content="Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &lt;root&gt;/▾ images/logo.pngshould become
+▾ &lt;root&gt;/▾ static/▾ images/logo.pngAdditionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2014/03/migrate-to-hugo-from-jekyll/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2014-03-10T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-03-10T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Migrate to Hugo from Jekyll"/>
+<meta name="twitter:description" content="Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &lt;root&gt;/▾ images/logo.pngshould become
+▾ &lt;root&gt;/▾ static/▾ images/logo.pngAdditionally, you&rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static."/>
+
+
+
+    <link rel="canonical" href="/posts/2014/03/migrate-to-hugo-from-jekyll/">
+
+    
+
+    
+		<link rel="stylesheet" type="text/css" href="/vendor/bootstrap/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="/fonts/themify/themify-icons.css">
+    
+    <link rel="stylesheet" type="text/css" href="/vendor/animate/animate.css">
+    
+    <link rel="stylesheet" type="text/css" href="/vendor/animsition/css/animsition.min.css">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> 
+    
+    <link rel="stylesheet" type="text/css" href="/vendor/slick/slick.css">
+    
+    <link rel="stylesheet" type="text/css" href="/vendor/lightbox2/css/lightbox.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="/css/util.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/font-awesome-animation.min.css">
+    
+    
+    
+
+    <title>
+      
+        Migrate to Hugo from Jekyll | mbrn.in
+      
+    </title>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> 
+
+    <style type="text/css">
+       
+      .contnr {
+      position: relative;
+      margin: 0 auto;  
+      }
+      
+       
+      .contnr .contnt {
+      text-align: center;
+      letter-spacing: 1px;
+      position: absolute;  
+      bottom: 0;  
+      background: rgb(0, 0, 0);  
+      background: rgba(0, 0, 0, 0.5);  
+      color: #f1f1f1;  
+      width: 100%;  
+      padding: 20px;  
+      }
+    </style>
+      
+    
+
+    
+  </head>
+  <body class="animsition">
+
+    
+        <header>
+    
+    <div class="wrap-menu-header gradient1 trans-0-4">
+        <div class="container h-full">
+            <div class="wrap_header trans-0-3">
+                
+                <div class="logo">
+                    <a href="index.php">
+                        <img src="https://res.cloudinary.com/mbrn/image/upload/w_90,h_50/v1590377192/logo_mtx3rw.png" alt="IMG-LOGO" data-logofixed="images/icons/logo2.png">
+                    </a>
+                </div>
+
+                
+                <div class="wrap_menu p-l-45 p-l-0-xl">
+                    <nav class="menu">
+                        <ul class="main_menu">
+                            <li>
+                                <a href="/">Home</a>
+                            </li>
+                            
+                            <li>
+                                <a href="blog.php">Events Blog</a>
+                            </li>
+                         
+                            <li>
+                                <a href="https://drive.google.com/open?id=1Bk-808ZvdIr2OfPGNN4NHzD5vi6pTYp1">AVC audios</a>
+                            </li>     
+                        </ul>
+                    </nav>
+                </div>
+
+                
+                <div class="social flex-w flex-l-m p-r-20">
+                   <button type="button" class="buttonsearch p-r-7" id="buttonsearch">
+                        <i class="glyphicon fa fa-search faa-pulse animated fa-2x"></i>
+                    </button>
+                    <a href="https://www.youtube.com/channel/UCf5tavUdZZX_4mUCHyq3lTw" title="Visit our YouTube channel" class="fs-15 c-white"><i class="fa fa-youtube fa-2x fa_1"></i></a>
+                    <div class="container_9 div-show-sidebar m-l-21" title="Menu">
+                        <div class="holder">
+                          <div class="bar1"></div>
+                          <div class="bar2"></div>
+                          <div class="bar3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="overlay"> </div>
+            <div class="row justify-content-center">
+            <div class="searchbardiv col-md-6" id="formsearch">
+            <h4 class="srch_head p-b-15 t-center">
+                <div class="tit2">Search</div> 
+                <div class="spcl">Events</div>
+            </h4>
+            <form method="get" action="" id="searchform" autocomplete="off">
+                 
+                    <div class="input-group" id="bord">
+                        <input type="hidden" name="use" value="search"/>
+                        <input type="text" id="searchbox" class="form-control" placeholder="start typing to see suggestions" name="search_in" id="s"/>
+                        <div class="hidn btn bg-transparent" id="cross" style="margin-left: -40px; z-index: 100;"><i class="fa fa-times"></i></div>
+                        <input type="hidden" name="id_sel" id="id_sel" value=""/>
+                        
+                    <div class="input-group-btn" id="btn">
+                        <button class="btn btn-default"  id="searchsubmit" type="submit" style="box-shadow: none !important;">
+                        <i class="fa fa-arrow-right"></i>
+                        </button>
+                    </div>
+                    </div>
+                    <p id="yr" class="p-t-10">You are searching events of (2019-2023)</p>
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</header>
+
+
+
+<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" 
+        style="background-image: url(https://res.cloudinary.com/mbrn/image/upload/v1590592461/final_lvxzw0.jpg)">
+<h2 class="tit6 t-center">Events Blog</h2></section>  
+
+
+
+
+<aside class="sidebar trans-0-4">
+    
+    <button class="btn-hide-sidebar ti-close color0-hov trans-0-4"></button>
+
+    
+    <ul class="menu-sidebar p-t-95 p-b-70">
+
+        <li class="t-center m-b-13">
+            <a href="/" class="txt19">Home</a>
+        </li>
+
+        <li class="t-center m-b-13">
+            <a href="/" class="txt19">Events Blog</a>
+        </li>
+
+        <li class="t-center m-b-33">
+            <a href="https://drive.google.com/open?id=1Bk-808ZvdIr2OfPGNN4NHzD5vi6pTYp1" class="txt19">AVC audios</a>
+        </li>
+
+    </ul>
+
+</aside>
+
+  
+        
+
+<header>
+    <h2 class="blog-post-title">
+    <a class="text-dark text-decoration-none" href="/posts/2014/03/migrate-to-hugo-from-jekyll/">Migrate to Hugo from Jekyll</a>
+</h2>
+
+    
+
+
+<div class="blog-post-date text-secondary">
+    
+        <time datetime="2014-03-10">Mar 10, 2014</time>
+    
+    
+        by <span rel="author">John Doe</span>
+    
+</div>
+
+    
+
+    
+
+    <hr>
+</header>
+<article class="blog-post">
+    <h2 id="move-static-content-to-static">Move static content to <code>static</code></h2>
+<p>Jekyll has a rule that any directory not starting with <code>_</code> will be copied as-is to the <code>_site</code> output. Hugo keeps all static content under <code>static</code>. You should therefore move it all there.
+With Jekyll, something that looked like</p>
+<pre><code>▾ &lt;root&gt;/
+    ▾ images/
+        logo.png
+</code></pre>
+<p>should become</p>
+<pre><code>▾ &lt;root&gt;/
+    ▾ static/
+        ▾ images/
+            logo.png
+</code></pre>
+<p>Additionally, you&rsquo;ll want any files that should reside at the root (such as <code>CNAME</code>) to be moved to <code>static</code>.</p>
+<h2 id="create-your-hugo-configuration-file">Create your Hugo configuration file</h2>
+<p>Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the <a href="/overview/configuration/">Hugo configuration documentation</a> for details.</p>
+<h2 id="set-your-configuration-publish-folder-to-_site">Set your configuration publish folder to <code>_site</code></h2>
+<p>The default is for Jekyll to publish to <code>_site</code> and for Hugo to publish to <code>public</code>. If, like me, you have <a href="http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html"><code>_site</code> mapped to a git submodule on the <code>gh-pages</code> branch</a>, you&rsquo;ll want to do one of two alternatives:</p>
+<ol>
+<li>
+<p>Change your submodule to point to map <code>gh-pages</code> to public instead of <code>_site</code> (recommended).</p>
+<pre><code> git submodule deinit _site
+ git rm _site
+ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
+</code></pre>
+</li>
+<li>
+<p>Or, change the Hugo configuration to use <code>_site</code> instead of <code>public</code>.</p>
+<pre><code> {
+     ..
+     &quot;publishdir&quot;: &quot;_site&quot;,
+     ..
+ }
+</code></pre>
+</li>
+</ol>
+<h2 id="convert-jekyll-templates-to-hugo-templates">Convert Jekyll templates to Hugo templates</h2>
+<p>That&rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to <a href="http://jekyllrb.com/docs/templates/">Jekyll&rsquo;s template documentation</a> if you need to refresh your memory on how you built your blog and <a href="/layout/templates/">Hugo&rsquo;s template</a> to learn Hugo&rsquo;s way.</p>
+<p>As a single reference data point, converting my templates for <a href="http://heyitsalex.net/">heyitsalex.net</a> took me no more than a few hours.</p>
+<h2 id="convert-jekyll-plugins-to-hugo-shortcodes">Convert Jekyll plugins to Hugo shortcodes</h2>
+<p>Jekyll has <a href="http://jekyllrb.com/docs/plugins/">plugins</a>; Hugo has <a href="/doc/shortcodes/">shortcodes</a>. It&rsquo;s fairly trivial to do a port.</p>
+<h3 id="implementation">Implementation</h3>
+<p>As an example, I was using a custom <a href="https://github.com/alexandre-normand/alexandre-normand/blob/74bb12036a71334fdb7dba84e073382fc06908ec/_plugins/image_tag.rb"><code>image_tag</code></a> plugin to generate figures with caption when running Jekyll. As I read about shortcodes, I found Hugo had a nice built-in shortcode that does exactly the same thing.</p>
+<p>Jekyll&rsquo;s plugin:</p>
+<pre><code>module Jekyll
+  class ImageTag &lt; Liquid::Tag
+    @url = nil
+    @caption = nil
+    @class = nil
+    @link = nil
+    // Patterns
+    IMAGE_URL_WITH_CLASS_AND_CAPTION =
+    IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK = /(\w+)(\s+)((https?:\/\/|\/)(\S+))(\s+)&quot;(.*?)&quot;(\s+)-&gt;((https?:\/\/|\/)(\S+))(\s*)/i
+    IMAGE_URL_WITH_CAPTION = /((https?:\/\/|\/)(\S+))(\s+)&quot;(.*?)&quot;/i
+    IMAGE_URL_WITH_CLASS = /(\w+)(\s+)((https?:\/\/|\/)(\S+))/i
+    IMAGE_URL = /((https?:\/\/|\/)(\S+))/i
+    def initialize(tag_name, markup, tokens)
+      super
+      if markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK
+        @class   = $1
+        @url     = $3
+        @caption = $7
+        @link = $9
+      elsif markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION
+        @class   = $1
+        @url     = $3
+        @caption = $7
+      elsif markup =~ IMAGE_URL_WITH_CAPTION
+        @url     = $1
+        @caption = $5
+      elsif markup =~ IMAGE_URL_WITH_CLASS
+        @class = $1
+        @url   = $3
+      elsif markup =~ IMAGE_URL
+        @url = $1
+      end
+    end
+    def render(context)
+      if @class
+        source = &quot;&lt;figure class='#{@class}'&gt;&quot;
+      else
+        source = &quot;&lt;figure&gt;&quot;
+      end
+      if @link
+        source += &quot;&lt;a href=\&quot;#{@link}\&quot;&gt;&quot;
+      end
+      source += &quot;&lt;img src=\&quot;#{@url}\&quot;&gt;&quot;
+      if @link
+        source += &quot;&lt;/a&gt;&quot;
+      end
+      source += &quot;&lt;figcaption&gt;#{@caption}&lt;/figcaption&gt;&quot; if @caption
+      source += &quot;&lt;/figure&gt;&quot;
+      source
+    end
+  end
+end
+Liquid::Template.register_tag('image', Jekyll::ImageTag)
+</code></pre>
+<p>is written as this Hugo shortcode:</p>
+<pre><code>&lt;!-- image --&gt;
+&lt;figure {{ with .Get &quot;class&quot; }}class=&quot;{{.}}&quot;{{ end }}&gt;
+    {{ with .Get &quot;link&quot;}}&lt;a href=&quot;{{.}}&quot;&gt;{{ end }}
+        &lt;img src=&quot;{{ .Get &quot;src&quot; }}&quot; {{ if or (.Get &quot;alt&quot;) (.Get &quot;caption&quot;) }}alt=&quot;{{ with .Get &quot;alt&quot;}}{{.}}{{else}}{{ .Get &quot;caption&quot; }}{{ end }}&quot;{{ end }} /&gt;
+    {{ if .Get &quot;link&quot;}}&lt;/a&gt;{{ end }}
+    {{ if or (or (.Get &quot;title&quot;) (.Get &quot;caption&quot;)) (.Get &quot;attr&quot;)}}
+    &lt;figcaption&gt;{{ if isset .Params &quot;title&quot; }}
+        {{ .Get &quot;title&quot; }}{{ end }}
+        {{ if or (.Get &quot;caption&quot;) (.Get &quot;attr&quot;)}}&lt;p&gt;
+        {{ .Get &quot;caption&quot; }}
+        {{ with .Get &quot;attrlink&quot;}}&lt;a href=&quot;{{.}}&quot;&gt; {{ end }}
+            {{ .Get &quot;attr&quot; }}
+        {{ if .Get &quot;attrlink&quot;}}&lt;/a&gt; {{ end }}
+        &lt;/p&gt; {{ end }}
+    &lt;/figcaption&gt;
+    {{ end }}
+&lt;/figure&gt;
+&lt;!-- image --&gt;
+</code></pre>
+<h3 id="usage">Usage</h3>
+<p>I simply changed:</p>
+<pre><code>{% image full http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg &quot;One of my favorite touristy-type photos. I secretly waited for the good light while we were &quot;having fun&quot; and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&quot; -&gt;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/ %}
+</code></pre>
+<p>to this (this example uses a slightly extended version named <code>fig</code>, different than the built-in <code>figure</code>):</p>
+<pre><code>{{% fig class=&quot;full&quot; src=&quot;http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg&quot; title=&quot;One of my favorite touristy-type photos. I secretly waited for the good light while we were having fun and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&quot; link=&quot;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/&quot; %}}
+</code></pre>
+<p>As a bonus, the shortcode named parameters are, arguably, more readable.</p>
+<h2 id="finishing-touches">Finishing touches</h2>
+<h3 id="fix-content">Fix content</h3>
+<p>Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that <code>hugo server --watch</code> is your friend. Test your changes and fix errors as needed.</p>
+<h3 id="clean-up">Clean up</h3>
+<p>You&rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&rsquo;t used, delete it.</p>
+<h2 id="a-practical-example-in-a-diff">A practical example in a diff</h2>
+<p><a href="http://heyitsalex.net/">Hey, it&rsquo;s Alex</a> was migrated in less than a <em>father-with-kids day</em> from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this <a href="https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610">diff</a>.</p>
+
+
+    
+
+    <footer>
+
+
+</footer>
+
+</article>
+
+
+
+        
+
+        
+        
+<footer class="bg1">
+    <div class="end-footer bg2">
+        <div class="container">
+            <div class="flex-sb-m flex-w p-t-22 p-b-22">
+                <div class="p-t-5 p-b-2">
+                    <p>You can find us at</p>
+                </div>
+                
+                <div class="p-t-5 p-b-5">
+                    <a href="https://www.youtube.com/channel/UCf5tavUdZZX_4mUCHyq3lTw" class="fs-15 c-white"><img src="https://res.cloudinary.com/mbrn/image/upload/w_22,h_16/v1590377456/youtube-logo_fxjv5w.png"></a>
+                </div>
+
+                <div class="txt17 p-r-20 p-t-5 p-b-5">
+                    Stay updated with new feature and event additions to our website by joining our <a href="https://t.me/joinchat/R3-6EBwqW_9tcAfHJCfyhQ" targrt="_blank"> Telegram group</a><br>
+                    Copyright &copy; 2023 | All rights reserved by Multimedia department.
+                </div>
+            </div>
+        </div>
+    </div>
+</footer> 
+
+
+
+        
+    
+        <div class="btn-back-to-top bg0-hov" id="myBtn">
+            <span class="symbol-btn-back-to-top">
+                <i class="fa fa-angle-double-up" aria-hidden="true"></i>
+            </span>
+        </div>
+
+    
+
+<script type="text/javascript" src="/vendor/jquery/jquery-3.2.1.min.js"></script>
+<script>
+
+    $('#buttonsearch').click(function(){
+        
+            $('#overlay').slideDown( 500,function(){
+                $("#formsearch").slideDown(400);
+                 $( '#content' ).addClass( "moremargin" );
+            } );
+            $("#searchbox").focus(function(){
+        
+      $(".wrap_header,.srch_head,#yr").fadeOut(500);
+      $("#formsearch").css({ 'top' : '0%'});
+      
+    }); 
+            
+    });
+
+    $('#overlay').click(function(){
+    
+        $("#formsearch").slideUp( 400,function(){
+            
+            $('#overlay').slideUp("fast");
+             $( '#content' ).removeClass( "moremargin" );
+             $("#formsearch").css({ 'top' : '40%'});
+        } );
+        $(".wrap_header,#yr").fadeIn();
+        $(".srch_head").delay(300).fadeIn();
+            
+        });
+    
+
+    $('#searchbox').on('input propertychange', function() {
+      var $this = $(this);
+      var visible = Boolean($this.val());
+      $this.siblings('#cross').toggleClass('hidn', !visible);
+    }).trigger('propertychange');
+    
+    $('#cross').click(function() {
+      $(this).siblings('input[type="text"]').val('')
+        .trigger('propertychange').focus();
+    });
+</script>
+
+
+<script type="text/javascript" src="/vendor/animsition/js/animsition.min.js"></script>
+
+<script type="text/javascript" src="/vendor/bootstrap/js/popper.js"></script>
+<script type="text/javascript" src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/vendor/select2/select2.min.js"></script>
+
+<script type="text/javascript" src="/vendor/daterangepicker/moment.min.js"></script>
+<script type="text/javascript" src="/vendor/daterangepicker/daterangepicker.js"></script>
+
+<script type="text/javascript" src="/vendor/slick/slick.min.js"></script>
+<script type="text/javascript" src="/js/slick-custom.js"></script>
+
+<script type="text/javascript" src="/vendor/parallax100/parallax100.js"></script>
+<script type="text/javascript">
+    $('.parallax100').parallax100();
+</script>
+
+<script type="text/javascript" src="/vendor/countdowntime/countdowntime.js"></script>
+
+<script type="text/javascript" src="/vendor/lightbox2/js/lightbox.min.js"></script>
+
+<script src="/js/main.js"></script>
+
+  </body>
+</html>

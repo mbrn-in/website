@@ -1,0 +1,70 @@
+
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/jquery/jquery-3.2.1.min.js"></script>
+<script>
+//Searchbar slidedown
+    $('#buttonsearch').click(function(){
+        
+            $('#overlay').slideDown( 500,function(){
+                $("#formsearch").slideDown(400);
+                 $( '#content' ).addClass( "moremargin" );
+            } );
+            $("#searchbox").focus(function(){
+        
+      $(".wrap_header,.srch_head,#yr").fadeOut(500);
+      $("#formsearch").css({ 'top' : '0%'});
+      
+    }); 
+            
+    });
+//Searchbar slideup	
+    $('#overlay').click(function(){
+    
+        $("#formsearch").slideUp( 400,function(){
+            
+            $('#overlay').slideUp("fast");
+             $( '#content' ).removeClass( "moremargin" );
+             $("#formsearch").css({ 'top' : '40%'});
+        } );
+        $(".wrap_header,#yr").fadeIn();
+        $(".srch_head").delay(300).fadeIn();
+            
+        });
+    
+//Searchbar cross
+    $('#searchbox').on('input propertychange', function() {
+      var $this = $(this);
+      var visible = Boolean($this.val());
+      $this.siblings('#cross').toggleClass('hidn', !visible);
+    }).trigger('propertychange');
+    
+    $('#cross').click(function() {
+      $(this).siblings('input[type="text"]').val('')
+        .trigger('propertychange').focus();
+    });
+</script>
+
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/bootstrap/js/popper.js"></script>
+<script type="text/javascript" src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/daterangepicker/moment.min.js"></script>
+<script type="text/javascript" src="/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/slick/slick.min.js"></script>
+<script type="text/javascript" src="/js/slick-custom.js"></script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/parallax100/parallax100.js"></script>
+<script type="text/javascript">
+    $('.parallax100').parallax100();
+</script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+<script type="text/javascript" src="/vendor/lightbox2/js/lightbox.min.js"></script>
+<!--===============================================================================================-->
+<script src="/js/main.js"></script>
