@@ -32,7 +32,7 @@ for item in data:
         # Write the front matter as YAML formatted text
         f.write('---\n')
         f.write('title: {}\n'.format(front_matter['title']))
-        f.write('prog_date: {}\n'.format(front_matter['prog_date']))
+        f.write('date: {}\n'.format(front_matter['prog_date']))
         for key, value in front_matter.items():
             if key not in ['title', 'prog_date', 'desc_long']:
                 f.write('{}: {}\n'.format(key, value))
