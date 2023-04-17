@@ -22,7 +22,41 @@
         </h4>
         <div class="txt32 flex-w p-b-24">
             <span>
-                3 months ago <span class="m-r-6 m-l-4">| {{ with .Params.category }}{{.}}{{end}}</span> 
+
+                <!-- Calculate the age in days and months -->
+{{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+{{ $ageMonths := div (sub now.Unix .Date.Unix) 2592000 }}
+{{ $ageYears := div (sub now.Unix .Date.Unix) 31536000 }}
+
+
+<!-- Published today -->
+{{ if eq $ageDays 0 }}
+
+    Published today.
+
+<!-- Published in the last 31 days -->
+{{ else if lt $ageDays 31 }}
+
+    Published {{ $ageDays }}
+        {{ cond (eq $ageDays 1) "day" "days"}}
+        ago.
+
+<!-- Published in the last 12 month(s) ago -->
+{{ else if lt $ageMonths 12}}
+
+    Published {{ $ageMonths }}
+        {{ cond (eq $ageMonths 1) "month" "months" }}
+        ago.
+    
+{{ else }}
+
+    Published {{ $ageYears }}
+    {{ cond (eq $ageYears 1) "year" "years" }}
+    ago.
+
+{{ end }}
+                
+                <span class="m-r-6 m-l-4">| {{ with .Params.category }}{{.}}{{end}}</span> 
             </span>
         </div>
 
