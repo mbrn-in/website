@@ -1,7 +1,7 @@
-pip install pyaml
 import json
 import yaml
 import os
+import shutil
 
 # Load the JSON file
 with open('events.json') as f:
@@ -21,7 +21,7 @@ for item in data:
 
     # Iterate through the remaining key-value pairs in the JSON object and add them to the front matter
     for key, value in item.items():
-        if key not in ['title', 'prog_date', 'prog_type']:
+        if key not in ['title', 'prog_date', 'prog_type', 'desc_long']:
             front_matter[key] = value
     year = item['prog_date'].split('-')[0]
     year_folder = os.path.join('content', year)
@@ -34,9 +34,11 @@ for item in data:
         f.write('title: {}\n'.format(front_matter['title']))
         f.write('prog_date: {}\n'.format(front_matter['prog_date']))
         for key, value in front_matter.items():
-            if key not in ['title', 'prog_date']:
+            if key not in ['title', 'prog_date', 'desc_long']:
                 f.write('{}: {}\n'.format(key, value))
         f.write('---\n\n')
+        # Write the markdown content
+        f.write(item['desc_long'])
 
-import shutil
+
 shutil.make_archive("content-zipped", 'zip', "content")
