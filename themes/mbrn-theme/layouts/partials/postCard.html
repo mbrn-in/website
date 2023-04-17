@@ -1,0 +1,38 @@
+<div class="blo4 p-b-63">
+    <div class="pic-blo4 hov-img-zoom bo-rad-10 pos-relative">
+        {{ $link := .Permalink }}
+        {{ $title := .Params.title }}
+        {{ with .Params.thumbnail }}
+
+        <a href="{{ $link }}">
+            <img src="/{{ . }}" loading="lazy" alt="{{ $title }}">
+        </a>
+
+        {{ end }}
+
+        <div class="date-blo4 flex-col-c-m">
+            <span class="txt30 m-b-4">{{ time.Format "02" .Params.date }}</span>
+            <span class="txt31">{{ time.Format "Jan, 2006" .Params.date }}</span>
+        </div>
+    </div>
+
+    <div class="text-blo4 p-t-33">
+        <h4 class="p-b-16">
+            <a href="{{ .Permalink }}" class='tit9'>{{ .Params.title }}</a>
+        </h4>
+        <div class="txt32 flex-w p-b-24">
+            <span>
+                3 months ago <span class="m-r-6 m-l-4">| {{ with .Params.category }}{{.}}{{end}}</span> 
+            </span>
+        </div>
+
+        {{ with .Params.desc_short }}
+        <p>{{.}}</p>
+        {{end}}
+        
+        <a href="{{ .Permalink }}" class='btn9 flex-c-m size13 dis-block txt4 m-t-25'>
+            View details
+            <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+        </a>
+    </div>
+</div>
