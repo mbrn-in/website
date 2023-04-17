@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://new.mbrn.in"
 title = "mbrn.in"
 languageCode = "en-us"
 defaultContentLanguage = "en"
