@@ -1,0 +1,113 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "prog_date",
+          "name": "prog_date",
+          "type": "datetime"
+        },
+        {
+          "title": "category",
+          "name": "category",
+          "type": "categories"
+        },
+        {
+          "title": "id",
+          "name": "id",
+          "type": "number"
+        },
+        {
+          "title": "month",
+          "name": "month",
+          "type": "number"
+        },
+        {
+          "title": "year",
+          "name": "year",
+          "type": "number"
+        },
+        {
+          "title": "reg_date",
+          "name": "reg_date",
+          "type": "datetime"
+        },
+        {
+          "title": "desc_short",
+          "name": "desc_short",
+          "type": "string"
+        },
+        {
+          "title": "desc_long",
+          "name": "desc_long",
+          "type": "string"
+        },
+        {
+          "title": "link",
+          "name": "link",
+          "type": "string"
+        },
+        {
+          "title": "img_url_db",
+          "name": "img_url_db",
+          "type": "string"
+        },
+        {
+          "title": "visibility",
+          "name": "visibility",
+          "type": "number"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    }
+  ]
+}
