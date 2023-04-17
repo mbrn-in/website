@@ -40,7 +40,7 @@ theme = 'mbrn-theme'
 # Links format
 
 [permalinks]
-  post = "post/:year/:month/:title/"
+  post = "posts/:year/:month/:title/"
 
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
