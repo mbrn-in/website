@@ -1,0 +1,28 @@
+# The netlify.toml is a configuration file that specifies how Netlify builds and deploys your 
+# site — including redirects, branch and context-specific settings, and more.
+
+# There are other ways to accomplish some of the things you would use the
+# netlify.toml for. For example, you can use _headers and _redirects files to accomplish what
+# the filename suggests, but having these settings all live in the same file can
+# greatly simplify maintaining them.
+
+[build]
+  # variables defined under the [build] context are available to all contexts
+  base = "/"
+  publish = "public"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.110.0"
+
+[context.deploy-preview]
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+
+[[headers]]
+  for = "/*" # This header will be applied to all pages
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive, nosnippet"  # The 'noindex' value disables search engine indexing
