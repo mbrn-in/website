@@ -44,7 +44,7 @@ theme = 'mbrn-theme'
 
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
-  mainSections = ["post"]
+  mainSections = ["posts"]
 
   # Default author
   author = "John Doe"
