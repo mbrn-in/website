@@ -1,0 +1,62 @@
+<div class="blo4 p-b-63">
+    <div class="pic-blo4 hov-img-zoom bo-rad-10 pos-relative">
+
+      {{- $title := .Params.title -}} 
+      {{- with .Params.thumbnail -}}
+          <img src="/{{ . }}" loading="lazy" alt="{{ $title }}" />
+      {{- end -}}
+  
+      <div class="date-blo4 flex-col-c-m">
+        <span class="txt30 m-b-4">{{ time.Format "02" .Params.date }}</span>
+        <span class="txt31">{{ time.Format "Jan, 2006" .Params.date }}</span>
+      </div>
+    </div>
+  
+    <div class="text-blo4 p-t-33">
+      <h4 class="p-b-16">
+        {{ .Params.title }}
+      </h4>
+      <div class="txt32 flex-w p-b-24">
+        <span>
+          <!-- Calculate the age in days and months -->
+          {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+          {{ $ageMonths := div (sub now.Unix .Date.Unix) 2592000 }}
+          {{ $ageYears := div (sub now.Unix .Date.Unix) 31536000 }}
+  
+          <!-- Published today -->
+          {{ if eq $ageDays 0 }} 
+              Published today.
+  
+          <!-- Published in the last 31 days -->
+          {{ else if lt $ageDays 31 }}
+              Published {{ $ageDays }} {{ cond (eq $ageDays 1) "day" "days"}} ago.
+  
+          <!-- Published in the last 12 month(s) ago -->
+          {{ else if lt $ageMonths 12}} 
+              Published {{ $ageMonths }} {{ cond (eq $ageMonths 1) "month" "months" }} ago.
+          
+          <!-- Published year(s) ago -->
+          {{ else }} 
+              Published {{ $ageYears }} {{ cond (eq $ageYears 1) "year" "years" }} ago. 
+          {{ end }}
+  
+          <span class="m-r-6 m-l-4">
+              | {{ with .Params.category }}{{.}}{{end}}
+          </span>
+        </span>
+      </div>
+  
+    
+      <p> {{ .Content }} </p>
+
+  
+      <a
+        href="{{ .Params.link }}"
+        class="btn9 flex-c-m size13 dis-block txt4 m-t-25"
+      >
+        View all photos
+        <i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div>
+  
