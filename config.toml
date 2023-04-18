@@ -11,8 +11,8 @@ paginatePath = "page"
 theme = 'mbrn-theme'
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
+  year = "year"
+  month = "month"
 
 # Google analytics
 # googleAnalytics = ""
@@ -40,7 +40,9 @@ theme = 'mbrn-theme'
 # Links format
 
 [permalinks]
-  posts = "posts/:year/:title/"
+  posts = "/posts/:year/:month/:title/"
+  year = "/posts/:slug/"
+  month = "/posts/:slug/"
 
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
