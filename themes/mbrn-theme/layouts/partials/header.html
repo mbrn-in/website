@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="logo">
                     <a href="/">
-                        <img src="https://res.cloudinary.com/mbrn/image/upload/w_90,h_50/v1590377192/logo_mtx3rw.png" alt="IMG-LOGO" data-logofixed="/images/icons/logo2.png">
+                        <img src="/images/icons/logo.png" alt="IMG-LOGO" data-logofixed="/images/icons/logo.png">
                     </a>
                 </div>
 
@@ -32,7 +32,16 @@
                 <!-- Social -->
                 <div class="social flex-w flex-l-m p-r-20">
                    <button type="button" class="buttonsearch p-r-7" id="buttonsearch">
-                        <i class="glyphicon fa fa-search faa-pulse animated fa-2x"></i>
+                    <svg fill="#fff" height="40" width="40" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 183.792 183.792" xml:space="preserve">
+                        <path
+                            d="M54.734,9.053C39.12,18.067,27.95,32.624,23.284,50.039c-4.667,17.415-2.271,35.606,6.743,51.22
+                                       c12.023,20.823,34.441,33.759,58.508,33.759c7.599,0,15.139-1.308,22.287-3.818l30.364,52.592l21.65-12.5l-30.359-52.583
+                                       c10.255-8.774,17.638-20.411,21.207-33.73c4.666-17.415,2.27-35.605-6.744-51.22C134.918,12.936,112.499,0,88.433,0
+                                       C76.645,0,64.992,3.13,54.734,9.053z M125.29,46.259c5.676,9.831,7.184,21.285,4.246,32.25c-2.938,10.965-9.971,20.13-19.802,25.806
+                                       c-6.462,3.731-13.793,5.703-21.199,5.703c-15.163,0-29.286-8.146-36.857-21.259c-5.676-9.831-7.184-21.284-4.245-32.25
+                                       c2.938-10.965,9.971-20.13,19.802-25.807C73.696,26.972,81.027,25,88.433,25C103.597,25,117.719,33.146,125.29,46.259z" />
+                    </svg>
                     </button>
                     <a href="https://www.youtube.com/channel/UCf5tavUdZZX_4mUCHyq3lTw" title="Visit our YouTube channel" class="fs-15 c-white"><i class="fa fa-youtube fa-2x fa_1"></i></a>
                     <div class="container_9 div-show-sidebar m-l-21" title="Menu">
@@ -52,23 +61,21 @@
                 <div class="tit2">Search</div> 
                 <div class="spcl">Events</div>
             </h4>
-            <form method="get" action="" id="searchform" autocomplete="off">
+            <form id="searchform" autocomplete="off">
                  
                     <div class="input-group" id="bord">
                         <input type="hidden" name="use" value="search"/>
-                        <input type="text" id="searchbox" class="form-control" placeholder="start typing to see suggestions" name="search_in" id="s"/>
-                        <div class="hidn btn bg-transparent" id="cross" style="margin-left: -40px; z-index: 100;"><i class="fa fa-times"></i></div>
-                        <input type="hidden" name="id_sel" id="id_sel" value=""/>
-                        
-                    <div class="input-group-btn" id="btn">
-                        <button class="btn btn-default"  id="searchsubmit" type="submit" style="box-shadow: none !important;">
-                        <i class="fa fa-arrow-right"></i>
-                        </button>
-                    </div>
+                        <input type="text" id="search-input" class="form-control" placeholder="start typing to see suggestions" name="search_in" id="s"/>
+                        <div>
+                            <svg fill="#000000" width="30" height="30" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M18.8,16l5.5-5.5c0.8-0.8,0.8-2,0-2.8l0,0C24,7.3,23.5,7,23,7c-0.5,0-1,0.2-1.4,0.6L16,13.2l-5.5-5.5  c-0.8-0.8-2.1-0.8-2.8,0C7.3,8,7,8.5,7,9.1s0.2,1,0.6,1.4l5.5,5.5l-5.5,5.5C7.3,21.9,7,22.4,7,23c0,0.5,0.2,1,0.6,1.4  C8,24.8,8.5,25,9,25c0.5,0,1-0.2,1.4-0.6l5.5-5.5l5.5,5.5c0.8,0.8,2.1,0.8,2.8,0c0.8-0.8,0.8-2.1,0-2.8L18.8,16z"/>
+                            </svg>
+                        </div>
                     </div>
                     <p id="yr" class="p-t-10">You are searching events of (2019-2023)</p>
                     <!-- . Click <a>here <i class="fa fa-external-link" aria-hidden="true"></i></a> for others  -->
-                </form>
+            </form>
+            <div id="search-results" class="search-results"></div>
             </div>
         </div>
     </div>
