@@ -1,0 +1,77 @@
+<head>
+    {{ partial "head-meta" . }}
+
+    {{/*  Faviocons  */}}
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
+    <link rel="manifest" href="/images/icons/site.webmanifest">
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    {{/*  External libs start */}}
+
+    <!--===============================================================================================-->
+		<link rel="stylesheet" type="text/css" href="/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/fonts/themify/themify-icons.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> 
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/vendor/slick/slick.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/vendor/lightbox2/css/lightbox.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/css/util.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/font-awesome-animation.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/css/custom.css">
+    {{/*  External libs end  */}}
+
+    <title>
+      {{ block "title" . }}
+        {{ .Title}}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}
+      {{ end }}
+    </title>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> 
+
+    <style type="text/css">
+      /* Container holding the image and the text */
+      .contnr {
+      position: relative;
+      margin: 0 auto; /* Center it */
+      }
+      
+      /* Bottom right text */
+      .contnr .contnt {
+      text-align: center;
+      letter-spacing: 1px;
+      position: absolute; /* Position the background text */
+      bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+      background: rgb(0, 0, 0); /* Fallback color */
+      background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+      color: #f1f1f1; /* Grey text */
+      width: 100%; /* Full width */
+      padding: 20px; /* Some padding */
+      }
+    </style>
+      
+    {{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+    {{ end -}}
+
+    {{ template "_internal/google_analytics_async.html" . }}
+
+    {{ partial "head-custom.html" . }}
+  </head>
