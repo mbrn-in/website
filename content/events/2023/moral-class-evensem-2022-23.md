@@ -1,7 +1,7 @@
 ---
 title: Moral class Evensem 2022-23
-date: 2023-05-04 05:00:00
-month: 2023/05
+date: 2023-04-26 09:00:00
+month: 2023/04
 year: 2023
 categories: ["photo"]
 desc_short: Nurturing Virtues - Moral Class at SSSIHL Brindavan Campus - Shaping Hearts, Illuminating Minds
