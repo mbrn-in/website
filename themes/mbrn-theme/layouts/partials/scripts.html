@@ -68,38 +68,3 @@
 <script type="text/javascript" src="/vendor/lightbox2/js/lightbox.min.js"></script>
 <!--===============================================================================================-->
 <script src="/js/main.js"></script>
-
-<script type="module" async crossorigin>
-    import {create, search, insertBatch} from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/index.js';
-    import {stemmer} from 'https://cdn.jsdelivr.net/npm/@lyrasearch/lyra@0.4.12/dist/stemmer/fr.min.js';
-
-    const indexResponse = await fetch('/index.json')
-    const index = await indexResponse.json();
-  
-    const searchEngine = await create({
-      schema: {
-        title: 'string',
-        content: 'string',
-        url: 'string'
-      },
-      defaultLanguage: 'english',
-      components: {
-        tokenizer: {
-          stemmingFn: stemmer,
-        }
-      }
-    });
-    await insertBatch(searchEngine, index);
-  
-    const searchResults = document.getElementById('search-results');
-  
-    const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('keydown', query);
-  
-    async function query() {
-      searchResults.innerHTML = (await search(searchEngine, {term: searchInput.value, properties: '*'}))
-        .hits
-        .map(i => `<a href="${i.document.url}" class="list-group-item list-group-item-action">${i.document.title}</a>`)
-        .join('')
-    }
-</script>
