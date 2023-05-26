@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Nurturing Virtues - Moral Class at SSSIHL Brindavan Campus - Shaping Hearts, Illuminating Minds
 link: https://drive.google.com/drive/folders/1lAU10HLsdPDkagnJ7oIYvisXizl9Hgnl?usp=share_link
-thumbnail: images/thumbnails/TST_0056.JPG
+thumbnail: images/thumbnails/TST_0063.jpg
 draft: false
 ---
 
