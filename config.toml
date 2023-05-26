@@ -3,12 +3,22 @@ title = "mbrn.in"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
-# Pagination
-paginate = 3
-paginatePath = "page"
-
 # Theme to use
 theme = 'mbrn-theme'
+
+############## Search ##############
+
+############################# Outputs ##############################
+[outputs]
+home = ["SearchIndex", "HTML"]
+
+############################ Output Format ###########################
+[outputFormats]
+[outputFormats.SearchIndex]
+mediaType = "application/json"
+baseName = "searchindex"
+isPlainText = true
+notAlternative = true
 
 [taxonomies]
   year = "year"
@@ -21,7 +31,6 @@ theme = 'mbrn-theme'
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  # copyright = "Hugo template made with ❤ by Xzya"
 
   [[languages.en.menu.main]]
     url = "/"
@@ -37,19 +46,12 @@ theme = 'mbrn-theme'
     weight = 3
 
 
-[outputs]
-  home = ["HTML", "JSON"]
-
 # Links format
 
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-  year = "/posts/:slug/"
-  month = "/posts/:slug/"
 
 [params]
   # Main sections (currently used for the recent posts in the sidebar)
-  mainSections = ["posts"]
+  mainSections = ["events"]
 
   # Default author
   author = "John Doe"
@@ -77,3 +79,12 @@ theme = 'mbrn-theme'
   [params.footer]
     # Color scheme for the footer (default: "light")
     # colorScheme = "dark"
+
+  [params.search]
+  enable = true
+  primary_color = "#ec1d25"
+  input_placeholder = "Start typing to search..."
+  show_image = false
+  show_description = false
+  show_tags = false
+  show_categories = true
