@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: House Drama Showdown 2022-23 - Arjunas vs. Bharatas - Brindavan Campus Drama Competition
 link: https://drive.google.com/drive/folders/1_IPubsvqO2CMIsdWVEA83Kq7Y49oSECY?usp=drive_link
-thumbnail: images/thumbnails/DSC_7388.JPG
+thumbnail: images/thumbnails/DSC_7388.jpg
 draft: false
 ---
 
