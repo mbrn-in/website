@@ -6,8 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Photos of the Annual Sports and Cultural Meet 2022-23
 link: https://drive.google.com/drive/folders/1Uh_CgSosCrcsY9VYgKKJoyRgN3Klqqyr?usp=drive_link
-thumbnail: images/thumbnails/1.jpg
-
+thumbnail: images/thumbnails/img1670744132.jpg
 draft: false
 ---
 
