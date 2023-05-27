@@ -1,6 +1,6 @@
 ---
 title: Batch Revelation 2022-23
-date: 2022-07-31 05:00:00
+date: 2022-07-31 06:00:00
 month: 2022/07
 year: 2022
 categories: ["photo"]
