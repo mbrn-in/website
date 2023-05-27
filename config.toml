@@ -1,4 +1,4 @@
-baseurl = "https://new.mbrn.in"
+baseref = "https://new.mbrn.in"
 title = "mbrn.in"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -23,6 +23,7 @@ notAlternative = true
 [taxonomies]
   year = "year"
   month = "month"
+  categories = "categories"
 
 # Google analytics
 # googleAnalytics = ""
@@ -33,17 +34,25 @@ notAlternative = true
   # Replace the default footer message with a localized message
 
   [[languages.en.menu.main]]
-    url = "/"
+    ref = "/"
     name = "Home"
-    weight = 1
+    weight = 10
   [[languages.en.menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 2
+    ref = "/categories/photo/"
+    name = "Gallery"
+    weight = 20
   [[languages.en.menu.main]]
-    url = "/contact/"
-    name = "Contact"
-    weight = 3
+    ref = "/categories/video/"
+    name = "Watch"
+    weight = 30
+  [[languages.en.menu.main]]
+    ref = "/categories/audio/"
+    name = "Listen"
+    weight = 40
+  [[languages.en.menu.main]]
+    ref = "/feedback/"
+    name = "Feedback"
+    weight = 50
 
 
 # Links format
