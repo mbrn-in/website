@@ -1,5 +1,5 @@
 ---
-title: Hum se Tum Tak - Friday Talk 2022-23
+title: Hum se Tum Tak - 2022-23
 date: 2023-05-19 06:30:00
 month: 2023/05
 year: 2023
