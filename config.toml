@@ -1,4 +1,4 @@
-baseref = "https://new.mbrn.in"
+baseurl = "https://new.mbrn.in"
 title = "mbrn.in"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -34,23 +34,23 @@ notAlternative = true
   # Replace the default footer message with a localized message
 
   [[languages.en.menu.main]]
-    ref = "/"
+    url = "/"
     name = "Home"
     weight = 10
   [[languages.en.menu.main]]
-    ref = "/categories/photo/"
+    url = "/categories/photo/"
     name = "Gallery"
     weight = 20
   [[languages.en.menu.main]]
-    ref = "/categories/video/"
+    url = "/categories/video/"
     name = "Watch"
     weight = 30
   [[languages.en.menu.main]]
-    ref = "/categories/audio/"
+    url = "/categories/audio/"
     name = "Listen"
     weight = 40
   [[languages.en.menu.main]]
-    ref = "/feedback/"
+    url = "/feedback/"
     name = "Feedback"
     weight = 50
 
