@@ -1,6 +1,6 @@
 ---
 title: Teachers' Day Celebration 2022-23
-date: 2022-09-05 07:00:00
+date: 2022-09-05 09:30:00
 month: 2022/09
 year: 2022
 categories: ["photo"]
