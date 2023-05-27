@@ -21,10 +21,7 @@
             <div class="col-md-8 col-lg-9">
                 <div class="card-deck p-t-80 p-b-124 bo5-r h-full p-r-9 p-r-0-md bo-none-md">
 
-					{{ $pagesToShow := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
-					{{ $posts := $pagesToShow.ByDate.Reverse }}
-
-					{{ range $posts }}
+					{{ range .Pages.ByDate.Reverse }}
 					
 					{{ partial "postCardDeck" . }}
 				
