@@ -1,5 +1,5 @@
 ---
-title: Pyaar ki Dastaan 2022-23
+title: Pyaar ki Dastaan Photos 2022-23
 date: 2023-04-17 09:00:00
 month: 2023/04
 year: 2023

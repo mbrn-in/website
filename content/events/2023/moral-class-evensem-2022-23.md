@@ -1,5 +1,5 @@
 ---
-title: Moral class Evensem 2022-23
+title: Moral class Evensem Photos 2022-23
 date: 2023-04-20 09:00:00
 month: 2023/04
 year: 2023

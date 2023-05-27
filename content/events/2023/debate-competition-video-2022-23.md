@@ -1,5 +1,5 @@
 ---
-title: Arjunas vs Bharatas Debate Competition 2022-23
+title: Arjunas vs Bharatas Debate Competition Video 2022-23
 date: 2022-11-03 06:00:00
 month: 2022/11
 year: 2022

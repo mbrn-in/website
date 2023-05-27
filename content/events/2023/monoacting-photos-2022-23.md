@@ -1,5 +1,5 @@
 ---
-title: Monoaction 2022-23
+title: Monoaction Photo 2022-23
 date: 2022-09-17 09:00:00
 month: 2022/09
 year: 2022

@@ -1,5 +1,5 @@
 ---
-title: Arjunas vs Bharatas Orchestra Competition 2022-23
+title: Arjunas vs Bharatas Orchestra Competition Photos 2022-23
 date: 2022-11-06 02:00:00
 month: 2022/11
 year: 2022

@@ -1,5 +1,5 @@
 ---
-title: 75 Independence Day 2022-23
+title: 75 Independence Day Video 2022-23
 date: 2022-08-15 07:00:00
 month: 2022/08
 year: 2022

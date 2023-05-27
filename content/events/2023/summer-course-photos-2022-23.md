@@ -1,5 +1,5 @@
 ---
-title: Summer Course 2022-23
+title: Summer Course Photos 2022-23
 date: 2022-07-22 05:00:00
 month: 2022/07
 year: 2022
