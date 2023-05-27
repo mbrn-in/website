@@ -4,7 +4,7 @@ date: 2022-11-05 06:00:00
 month: 2022/11
 year: 2022
 categories: ["photo"]
-desc_short: Doubles Delight - Thrilling Badminton Doubles Match at SSSIHL Brindavan Campus - Perfect Coordination and Team Strategy
+desc_short: Sprinting to Victory - Thrilling 400m Race at SSSIHL Brindavan Campus - Speed, Stamina, and Determination on Display
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EupANU3G7txGh3L3C-xOFVABeD54maweRcMQqCJH0x40dw?e=y9A170
 thumbnail: images/thumbnails/DSC_2051.jpg
 draft: false
