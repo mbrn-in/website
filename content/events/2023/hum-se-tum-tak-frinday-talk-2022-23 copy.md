@@ -1,12 +1,12 @@
 ---
-title: Hum se Tum Tak - Friday Talk 2022-23
-date: 2023-05-19 06:30:00
+title: Hum se Tum Tak - 2022-23
+date: 2023-05-19 06:15:00
 month: 2023/05
 year: 2023
-categories: ["photo"]
-desc_short: Embracing Divine Presence - Humse Tum Tak - Students' Heartfelt Experience with Bhagawan Sri Sathya Sai Baba at SSSIHL Brindavan Campus Hostel
-link: https://drive.google.com/drive/folders/18EKD8XxicAkg-s61msib8JsfhUY5LR2T?usp=share_link
-thumbnail: images/thumbnails/DSC_0004.jpg
+categories: ["video"]
+desc_short: Embracing Divine Presence - Humse Tum Tak - Friday talk - Students' Heartfelt Experience with Bhagawan Sri Sathya Sai Baba at SSSIHL Brindavan Campus Hostel
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYLOmeLnuLKqr4lmdE0gAkm
+thumbnail: images/thumbnails/humse tum tak.png
 draft: false
 ---
 
