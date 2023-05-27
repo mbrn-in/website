@@ -1,5 +1,11 @@
 .activ a {
-background-color: #ffffffde;
-padding: .19rem .29rem;
-border-radius: .3rem;
+  background-color: #ffffffde;
+  padding: 0.19rem 0.29rem;
+  border-radius: 0.3rem;
+}
+
+.card-deck {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: .5rem;
 }

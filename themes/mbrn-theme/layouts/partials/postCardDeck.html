@@ -1,0 +1,45 @@
+{{- $link := .Permalink -}} 
+{{- $title := .Params.title -}}
+
+<a href="{{ $link }}" class="card">
+
+  {{- with .Params.thumbnail -}}
+  <img src="/{{ . }}" loading="lazy" alt="{{ $title }}" class="card-img-top">
+  {{- end -}}
+
+  <div class="card-body">
+    <h5 class="card-title">{{ $title }}</h5>
+    {{ with .Params.desc_short }}
+    <p class="card-text">{{.}}</p>
+    {{end}}
+  </div>
+  <div class="card-footer">
+    <small class="text-muted">
+      
+              <!-- Calculate the age in days and months -->
+              {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+              {{ $ageMonths := div (sub now.Unix .Date.Unix) 2592000 }}
+              {{ $ageYears := div (sub now.Unix .Date.Unix) 31536000 }}
+      
+              <!-- Published today -->
+              {{ if eq $ageDays 0 }} 
+                  Published today.
+      
+              <!-- Published in the last 31 days -->
+              {{ else if lt $ageDays 31 }}
+                  Published {{ $ageDays }} {{ cond (eq $ageDays 1) "day" "days"}} ago.
+      
+              <!-- Published in the last 12 month(s) ago -->
+              {{ else if lt $ageMonths 12}} 
+                  Published {{ $ageMonths }} {{ cond (eq $ageMonths 1) "month" "months" }} ago.
+              
+              <!-- Published year(s) ago -->
+              {{ else }} 
+                  Published {{ $ageYears }} {{ cond (eq $ageYears 1) "year" "years" }} ago. 
+              {{ end }}
+
+    </small>
+  </div>
+</a>
+
+
