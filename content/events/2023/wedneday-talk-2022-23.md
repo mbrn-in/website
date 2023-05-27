@@ -1,6 +1,6 @@
 ---
 title: wedneday talk 2022-23
-date: 2023-04-26 09:00:00
+date: 2023-04-19 09:00:00
 month: 2023/04
 year: 2023
 categories: ["photo"]
