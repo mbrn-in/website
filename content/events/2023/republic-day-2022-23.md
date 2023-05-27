@@ -2,7 +2,7 @@
 title: Republic Day 2022-23
 date: 2023-01-26 07:00:00
 month: 2023/01
-year: 2022
+year: 2023
 categories: ["photo"]
 desc_short: 26th January Jubilation - Celebrating Republic Day at SSSIHL Brindavan Campus - Honoring the Spirit of Democracy
 link: https://drive.google.com/drive/folders/1W73RnBpODlWpROp8Y5dAa51TTt0PQW24?usp=share_link
