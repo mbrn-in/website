@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Battle of Skills - Teachers vs. Students - Epic Ball Badminton Clash at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EgfS-G-tWqJMq6P0q4Uw3UUBL_JRD0beJhZYVF3Vn781mA?e=jzFqML
-thumbnail: images/thumbnails/DSC_6656.jpg
+thumbnail: images/thumbnails/DSC_6656.JPG
 draft: false
 ---
 
