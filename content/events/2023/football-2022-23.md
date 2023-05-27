@@ -1,13 +1,13 @@
 ---
-title: Arjunas vs Bharatas Cricket Match 2022-23
-date: 2022-09-12 07:00:00
+title: Arjunas vs Bharatas Football Match 2022-23
+date: 2022-09-12 06:00:00
 month: 2022/09
 year: 2022
 categories: ["photo"]
-desc_short: Cricket Clash - Arjunas vs. Bharatas - Battling for Glory on the Cricket Pitch at SSSIHL Brindavan Campus
-link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EtCis-aRl1BBuv0xqZgX-foBo4sLEqucXQWDMfHzzxdVJA?e=SHIRoU
-thumbnail: images/thumbnails/DSC_3689.JPG
+desc_short: Battle on the Field - Arjunas vs. Bharatas - Exciting Football Showdown at SSSIHL Brindavan Campus.
+link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Evkaeauo7BhGgYhdVr-9NKUBTqqBArtv_6djAmkzuwLE_A?e=kJIwfO
+thumbnail: images/thumbnails/IMG_0383.jpg
 draft: false
 ---
 
-Step into the cricketing arena as the Arjunas and Bharatas lock horns in an epic battle on the hallowed grounds of SSSIHL Brindavan Campus. Witness the crack of the bat, the precision of the bowlers, and the acrobatics in the field as these two teams showcase their cricketing prowess. With every run, wicket, and boundary, the atmosphere is charged with excitement and anticipation. Be a part of this thrilling cricket match where sportsmanship, strategy, and passion collide in a quest for victory.
+Experience the thrill of the beautiful game as the Arjunas and Bharatas face off in a captivating football match at SSSIHL Brindavan Campus. The field comes alive with the sound of cleats on grass and the roar of passionate spectators. Watch as skilled players maneuver the ball with precision, displaying tactical brilliance and impressive teamwork. Feel the adrenaline surge as goals are scored, tackles are made, and the spirit of competition drives the players to give their all. Immerse yourself in the excitement and passion of this exhilarating football clash that showcases the power of athleticism, strategy, and the love for the game.

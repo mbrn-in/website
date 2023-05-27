@@ -1,6 +1,6 @@
 ---
 title: Arjunas vs Bharatas Cricket Match 2022-23
-date: 2022-09-12 07:00:00
+date: 2022-09-11 07:00:00
 month: 2022/09
 year: 2022
 categories: ["photo"]
