@@ -1,11 +1,11 @@
 ---
-title: Batch Revelation 2022-23
+title: Batch Revelation Video 2022-23
 date: 2022-07-31 06:00:00
 month: 2022/07
 year: 2022
-categories: ["photo"]
+categories: ["video"]
 desc_short:  Embracing the Future Final Year Batch Revelation Day at SSSIHL Brindavan Campus
-link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Em6Pzs0M641LoIbu5siddzcBI3U1srlc4MrZSnHHb4UBBg?e=lSh29U
+link: https://youtu.be/4P0wGZZG_GM?list=PLUyvnxCM1pCYTpDWRUw7UJ2_N65tu1kQv
 thumbnail: images/thumbnails/IMG_4844.jpg
 draft: false
 ---

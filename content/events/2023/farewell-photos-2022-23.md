@@ -1,5 +1,5 @@
 ---
-title: Farewell 2022-23
+title: Farewell photos 2022-23
 date: 2023-05-07 05:30:00
 month: 2023/05
 year: 2023

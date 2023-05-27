@@ -1,11 +1,11 @@
 ---
-title: Krishna Janmashtami Celebrations 2022-23
+title: Krishna Janmashtami Celebrations Video 2022-23
 date: 2022-08-19 05:00:00
 month: 2022/08
 year: 2022
-categories: ["photo"]
+categories: ["video"]
 desc_short:   Divine Leelas - Celebrating Krishna Janmashtami at SSSIHL Brindavan Campus.
-link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Ev2PjIj1AptKjZpt67lh1hYBOe0oxYYmhTZVrdwtxG-RlQ?e=hrP55o
+link: https://youtu.be/zIihbw1l0Cw
 thumbnail: images/thumbnails/DSC_8703.JPG
 draft: false
 ---

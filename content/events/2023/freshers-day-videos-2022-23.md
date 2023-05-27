@@ -1,11 +1,11 @@
 ---
-title: Freshers Day 2022-23
+title: Freshers Day Video 2022-23
 date: 2022-07-31 06:30:00
 month: 2022/07
 year: 2022
-categories: ["photo"]
+categories: ["video"]
 desc_short:  A Joyful Beginning - Freshers' Day Celebration at SSSIHL Brindavan Campus
-link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EtJMtC_-7rBLmmGX6VHeiesB1IjCYQaxnDjQKycoR_OCow?e=wRhZXK
+link: https://youtu.be/7A0JSYkt-M4
 thumbnail: images/thumbnails/DSC_3549.jpg
 draft: false
 ---

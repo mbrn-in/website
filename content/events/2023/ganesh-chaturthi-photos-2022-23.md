@@ -1,5 +1,5 @@
 ---
-title: Ganesh Chaturthi Celebrations 2022-23
+title: Ganesh Chaturthi Celebrations Photos 2022-23
 date: 2022-09-02 05:00:00
 month: 2022/09
 year: 2022
