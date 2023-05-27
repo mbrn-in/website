@@ -13,19 +13,31 @@
                 <!-- Menu -->
                 <div class="wrap_menu p-l-45 p-l-0-xl">
                     <nav class="menu">
-                        <ul class="main_menu">
-                            <li>
-                                <a href="/">Home</a>
-                            </li>
-                            
-                            <li>
-                                <a href="/events/">Gallery</a>
-                            </li>
-                         
-                            <li>
-                                <a href="https://drive.google.com/open?id=1Bk-808ZvdIr2OfPGNN4NHzD5vi6pTYp1">Listen</a>
-                            </li>     
-                        </ul>
+                    
+                    <ul class="main_menu">
+                        {{ $currentPage := . }}
+                        {{ range .Site.Menus.main }}
+                        <li>
+                            <a class="menu-link {{ if or ($currentPage.IsMenuCurrent " main" .)
+                                ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">
+                                {{ .Name }}
+                            </a>
+                            {{ if .HasChildren }}
+                            <ul>
+                                {{ range .Children }}
+                                <li>
+                                    <a class="menu-link {{ if $currentPage.IsMenuCurrent " main" . }}active{{ end }}"
+                                        href="{{ .URL }}">
+                                        {{ .Name }}
+                                    </a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                            {{ end }}
+                        </li>
+                        {{ end }}
+                    </ul>
+
                     </nav>
                 </div>
 
@@ -86,18 +98,27 @@
     <!-- - -->
     <ul class="menu-sidebar p-t-95 p-b-70">
 
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
         <li class="t-center m-b-13">
-            <a href="/" class="txt19">Home</a>
+            <a class="menu-link {{ if or ($currentPage.IsMenuCurrent " main" .)
+                ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">
+                {{ .Name }}
+            </a>
+            {{ if .HasChildren }}
+            <ul>
+                {{ range .Children }}
+                <li class="t-center m-b-13">
+                    <a class="menu-link {{ if $currentPage.IsMenuCurrent " main" . }}active{{ end }}"
+                        href="{{ .URL }}">
+                        {{ .Name }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+            {{ end }}
         </li>
-
-        <li class="t-center m-b-13">
-            <a href="/events/" class="txt19">Gallery</a>
-        </li>
-
-        <li class="t-center m-b-33">
-            <a href="https://drive.google.com/open?id=1Bk-808ZvdIr2OfPGNN4NHzD5vi6pTYp1" class="txt19">Listen</a>
-        </li>
-
+        {{ end }}
     </ul>
 
 </aside>
