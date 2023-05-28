@@ -6,7 +6,7 @@ year: 2023
 categories: ["video"]
 desc_short: Embracing Divine Presence - Humse Tum Tak - Friday talk - Students' Heartfelt Experience with Bhagawan Sri Sathya Sai Baba at SSSIHL Brindavan Campus Hostel
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYLOmeLnuLKqr4lmdE0gAkm
-thumbnail: images/thumbnails/humse tum tak.png
+thumbnail: images/thumbnails/humse tum tak.jpg
 draft: false
 ---
 
