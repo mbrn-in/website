@@ -9,3 +9,29 @@
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: .5rem;
 }
+
+.box {
+  background-color: #c73240;
+  border-radius: .5rem;
+  color: white;
+  padding: 1rem 2rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.box:hover {
+  color: white;
+  background-color: black;
+  transform: scale(1.05);
+  transition: all .41s ease-in-out;
+}
+
+.boxes {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  gap: 1.7rem;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+}
