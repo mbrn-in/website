@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Endurance Unleashed - Thrilling 5000m Race at SSSIHL Brindavan Campus - Stamina, Resolve, and the Pursuit of Victory.
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Ehmvt1aC2L5KgUx43EjQdD8B0-NkM155qgbvsOwNklEVDQ?e=j0UAOn
-thumbnail: images/thumbnails/IMG_3452.jpg
+thumbnail: images/thumbnails/IMG_3452.webp
 draft: false
 ---
 

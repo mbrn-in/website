@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Unleashing Soaring Potential - Exciting Long Jump Event at SSSIHL Brindavan Campus - Power, Technique, and Airborne Achievements
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EmCPXK4CNw1PuvMYGnOA2q8BHL9EIf1whO4CbR7Ch3r14Q?e=piokvP
-thumbnail: images/thumbnails/DSC_7822.jpg
+thumbnail: images/thumbnails/DSC_7822.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["video"]
 desc_short: Festival of Lights - Diwali Celebrations at SSSIHL Brindavan Campus.
 link: https://youtu.be/iz6JFC3KhYs
-thumbnail: images/thumbnails/DSC_0132.jpg
+thumbnail: images/thumbnails/DSC_0132.webp
 draft: false
 ---
 

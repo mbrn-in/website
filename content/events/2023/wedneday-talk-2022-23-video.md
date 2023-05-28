@@ -6,7 +6,7 @@ year: 2023
 categories: ["video"]
 desc_short: Words that Inspire - Wisdom Unveiled - Wednesday Talk at SSSIHL Brindavan Campus
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZiWROqO6grYAnzQnOoSeVa
-thumbnail: images/thumbnails/wed talk.png
+thumbnail: images/thumbnails/wed talk.webp
 draft: false
 ---
 

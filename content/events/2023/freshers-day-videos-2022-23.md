@@ -6,7 +6,7 @@ year: 2022
 categories: ["video"]
 desc_short:  A Joyful Beginning - Freshers' Day Celebration at SSSIHL Brindavan Campus
 link: https://youtu.be/7A0JSYkt-M4
-thumbnail: images/thumbnails/DSC_3549.jpg
+thumbnail: images/thumbnails/DSC_3549.webp
 draft: false
 ---
 

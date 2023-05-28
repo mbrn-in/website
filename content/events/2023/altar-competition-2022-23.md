@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:   Divine Expressions - Sacred Altar Competition Illuminates Each Room at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Esls5YyGqSdFkoC-9nGZtewB38nR9U8r3pzUTZue7a2Qug?e=haGntR
-thumbnail: images/thumbnails/DSC_0081.jpg
+thumbnail: images/thumbnails/DSC_0081.webp
 draft: false
 ---
 

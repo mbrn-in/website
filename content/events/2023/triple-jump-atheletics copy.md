@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Triumph in Flight - Thrilling Triple Jump Event at SSSIHL Brindavan Campus - Technique, Power, and Boundless Leaps
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EuxwcnIYlc5DizNztRoJ-N4BvtV4pnBxcln8ugI-Kw6A1w?e=GoQQtc
-thumbnail: images/thumbnails/DSC_1622.JPG
+thumbnail: images/thumbnails/DSC_1622.webp
 draft: false
 ---
 

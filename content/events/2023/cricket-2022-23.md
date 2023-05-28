@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Cricket Clash - Arjunas vs. Bharatas - Battling for Glory on the Cricket Pitch at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EtCis-aRl1BBuv0xqZgX-foBo4sLEqucXQWDMfHzzxdVJA?e=SHIRoU
-thumbnail: images/thumbnails/DSC_3689.JPG
+thumbnail: images/thumbnails/DSC_3689.webp
 draft: false
 ---
 

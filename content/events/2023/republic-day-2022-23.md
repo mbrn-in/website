@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: 26th January Jubilation - Celebrating Republic Day at SSSIHL Brindavan Campus - Honoring the Spirit of Democracy
 link: https://drive.google.com/drive/folders/1W73RnBpODlWpROp8Y5dAa51TTt0PQW24?usp=share_link
-thumbnail: images/thumbnails/DSC_0230.jpg
+thumbnail: images/thumbnails/DSC_0230.webp
 draft: false
 ---
 

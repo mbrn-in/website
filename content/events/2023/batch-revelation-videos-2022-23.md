@@ -6,7 +6,7 @@ year: 2022
 categories: ["video"]
 desc_short:  Embracing the Future Final Year Batch Revelation Day at SSSIHL Brindavan Campus
 link: https://youtu.be/4P0wGZZG_GM?list=PLUyvnxCM1pCYTpDWRUw7UJ2_N65tu1kQv
-thumbnail: images/thumbnails/IMG_4844.jpg
+thumbnail: images/thumbnails/IMG_4844.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Mighty Throws - Thrilling Discus Throw Event at SSSIHL Brindavan Campus - Power, Technique, and Precision in Action
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EhTUckD4YnBIn849E688Ge8Bh24TRViOiijLIrtGsQHnTg?e=8el0j7
-thumbnail: images/thumbnails/DSC_8350.jpg
+thumbnail: images/thumbnails/DSC_8350.webp
 draft: false
 ---
 

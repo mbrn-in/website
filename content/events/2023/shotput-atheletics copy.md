@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Unleashing Herculean Strength - Thrilling Shot Put Event at SSSIHL Brindavan Campus - Power, Precision, and Athletic Dominance
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EhrR-VNPR4tAgSOvYmStRPUBPES9I-wN1sC4M3eGY-O1MA?e=5WfEm6
-thumbnail: images/thumbnails/DSC_6943.jpg
+thumbnail: images/thumbnails/DSC_6943.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:  Melodic Showdown - Captivating Individual Vocal Competition at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Ep9ui-PJImxEtQ8tLiu9JSEBzmDGiDR1hS8ts4x34hO3EA?e=Ei7bl8
-thumbnail: images/thumbnails/DSC_7969.JPG
+thumbnail: images/thumbnails/DSC_7969.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Mighty Throws - Thrilling Hammer Throw Event at SSSIHL Brindavan Campus - Power, Technique, and Athletic Precision on Display
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EkCU3t5lgzJJkiJ8JsiHSrEBYV02ZxRmowGNsAXbxpv2Ww?e=UaaADj
-thumbnail: images/thumbnails/DSC_9377.jpg
+thumbnail: images/thumbnails/DSC_9377.webp
 draft: false
 ---
 

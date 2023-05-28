@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Spike and Soar - Arjunas vs. Bharatas - Thrilling Volleyball Clash at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EktohVyXdV1Ihf9YIjBu0XcBzK-L1vf6vekobNw4JfBbXQ?e=yUh1UP
-thumbnail: images/thumbnails/IMG_0752.JPG
+thumbnail: images/thumbnails/IMG_0752.webp
 draft: false
 ---
 

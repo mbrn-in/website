@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Battle on the Field - Arjunas vs. Bharatas - Exciting Football Showdown at SSSIHL Brindavan Campus.
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Evkaeauo7BhGgYhdVr-9NKUBTqqBArtv_6djAmkzuwLE_A?e=kJIwfO
-thumbnail: images/thumbnails/IMG_0383.jpg
+thumbnail: images/thumbnails/IMG_0383.webp
 draft: false
 ---
 

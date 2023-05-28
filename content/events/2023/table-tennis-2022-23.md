@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Table Tennis Showdown - Intense Battle of Skills at SSSIHL Brindavan Campus - Spin, Speed, and Precision Collide
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/En_eqRrRPi9FiGRYaMvEofQBdO3YZHA7aPcknC11hPYgdg?e=ANUSWl
-thumbnail: images/thumbnails/DSC_2457.JPG
+thumbnail: images/thumbnails/DSC_2457.webp
 draft: false
 ---
 

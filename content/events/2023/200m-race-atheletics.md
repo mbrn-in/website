@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Speed Unleashed - Exciting 200m Sprint at SSSIHL Brindavan Campus - Explosive Energy and Lightning-Fast Pace
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Erpe2pUKuYVPk5KQnmZmNWQBJ1Teyh6CCeY4CMoDmkpaqQ?e=oqBXc9
-thumbnail: images/thumbnails/DSC_7931.jpg
+thumbnail: images/thumbnails/DSC_7931.webp
 draft: false
 ---
 

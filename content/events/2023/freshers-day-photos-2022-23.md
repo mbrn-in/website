@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:  A Joyful Beginning - Freshers' Day Celebration at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EtJMtC_-7rBLmmGX6VHeiesB1IjCYQaxnDjQKycoR_OCow?e=wRhZXK
-thumbnail: images/thumbnails/DSC_3549.jpg
+thumbnail: images/thumbnails/DSC_3549.webp
 draft: false
 ---
 

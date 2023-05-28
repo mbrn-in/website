@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: A humbel offering by The Lakshyas expressing love for their Divine Mother. 
 link: https://drive.google.com/drive/folders/1-uhjTPiB_XCmnyH_8qGObNRcgRcgEIa5?usp=share_link
-thumbnail: images/thumbnails/DSC_0002.JPG
+thumbnail: images/thumbnails/DSC_0002.webp
 draft: false
 ---
 
