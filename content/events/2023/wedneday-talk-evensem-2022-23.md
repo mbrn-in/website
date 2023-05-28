@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Words that Inspire - Wisdom Unveiled - Wednesday Talk at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/10wcXXNhCD7pwGUsw0dfWXD2Q0DxuEXhR?usp=share_link
-thumbnail: images/thumbnails/TST_2178.jpg
+thumbnail: images/thumbnails/TST_2178.webp
 draft: false
 ---
 

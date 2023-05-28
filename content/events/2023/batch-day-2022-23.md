@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Unforgettable Bonds - Lakshyas Batch Day at SSSIHL Brindavan Campus - Celebrating Lifelong Connections and Cherished Memories
 link: https://drive.google.com/drive/folders/1eKhomk-W75ayoxHJ5FMGGC0Indm6pXsY?usp=share_link
-thumbnail: images/thumbnails/Batch_Day_882_2023.JPG
+thumbnail: images/thumbnails/Batch_Day_882_2023.webp
 draft: false
 ---
 

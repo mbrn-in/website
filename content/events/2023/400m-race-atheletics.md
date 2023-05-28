@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Sprinting to Victory - Thrilling 400m Race at SSSIHL Brindavan Campus - Speed, Stamina, and Determination on Display
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EupANU3G7txGh3L3C-xOFVABeD54maweRcMQqCJH0x40dw?e=y9A170
-thumbnail: images/thumbnails/DSC_2051.jpg
+thumbnail: images/thumbnails/DSC_2051.webp
 draft: false
 ---
 

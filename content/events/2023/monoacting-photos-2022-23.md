@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:  Expressive Solo Acts - Spellbinding Mono Acting Competition at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EioK2gjaMHZLo64gCd9rNsMBVIbWOIzHha0xYgpjkXT5Qg?e=qZDChU
-thumbnail: images/thumbnails/IMG_1136.JPG
+thumbnail: images/thumbnails/IMG_1136.webp
 draft: false
 ---
 

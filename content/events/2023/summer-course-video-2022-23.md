@@ -6,7 +6,7 @@ year: 2022
 categories: ["video"]
 desc_short:   Exploring the Essence - Summer Course in Indian Spirituality and Culture
 link: https://youtu.be/XuuRRA-C8UM
-thumbnail: images/thumbnails/20220722_125527.jpg
+thumbnail: images/thumbnails/20220722_125527.webp
 draft: false
 ---
 

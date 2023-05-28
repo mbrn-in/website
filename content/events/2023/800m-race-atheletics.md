@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Middle-Distance Battle - Exciting 800m Race at SSSIHL Brindavan Campus - Strategy, Endurance, and a Sprint to the Finish
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EisQVatuiz5BoNse2ksYSi0BlPKOUYvoUkpvSq-UA5FREw?e=djcFuI
-thumbnail: images/thumbnails/DSC_8386.jpg
+thumbnail: images/thumbnails/DSC_8386.webp
 draft: false
 ---
 

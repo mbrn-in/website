@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:  Student Devotion - Reverent Offering by SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/ErE_cZ_a6bRLglcDkmcNf1gBYrpqBefrNyNYp6RgN9vn5A?e=j6rVBL
-thumbnail: images/thumbnails/DSC_2998.JPG
+thumbnail: images/thumbnails/DSC_2998.webp
 draft: false
 ---
 

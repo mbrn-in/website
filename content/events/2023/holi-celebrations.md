@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Colors of Joy Holi Celebrations at SSSIHL Brindavan Campus - Uniting Hearts in Vibrant Revelry
 link: https://drive.google.com/drive/folders/1yqrPvxptsY4ujqx378gG5lsPZuwlz6ns?usp=share_link
-thumbnail: images/thumbnails/TST_1035.JPG
+thumbnail: images/thumbnails/TST_1035.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Leap to New Heights - Thrilling High Jump Event at SSSIHL Brindavan Campus - Grace, Technique, and Soaring Achievements
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/ErKMtlXyYi1MguM3VDpvLSoBV4jC6gEM6tIncExsdY5G3w?e=Uxa5d3
-thumbnail: images/thumbnails/DSC_2423.JPG
+thumbnail: images/thumbnails/DSC_2423.webp
 draft: false
 ---
 

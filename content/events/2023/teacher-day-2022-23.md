@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Honoring the Guiding Lights - Teachers' Day Celebration at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EgA1RLf1NyRPhBCx7CBOQI0BOvi40cOuLg8w43uIwnuF6A?e=3ta7hA
-thumbnail: images/thumbnails/IMG_9518.JPG
+thumbnail: images/thumbnails/IMG_9518.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["video"]
 desc_short: Azadi Ka Amrit Mahotsav - Celebrating 75th Indian Independence Day at SSSIHL Brindavan Campus
 link: https://youtu.be/BBSC01dIlp8
-thumbnail: images/thumbnails/DSC_0847.jpg
+thumbnail: images/thumbnails/DSC_0847.webp
 draft: false
 ---
 

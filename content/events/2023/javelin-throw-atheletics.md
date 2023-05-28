@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Unleashing Precision and Power - Thrilling Javelin Throw Event at SSSIHL Brindavan Campus - Technique, Distance, and Athletic Excellence
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EuxwcnIYlc5DizNztRoJ-N4BvtV4pnBxcln8ugI-Kw6A1w?e=X2WL8w
-thumbnail: images/thumbnails/DSC_0804.jpg
+thumbnail: images/thumbnails/DSC_0804.webp
 draft: false
 ---
 

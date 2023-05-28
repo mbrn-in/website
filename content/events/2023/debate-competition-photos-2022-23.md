@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Clash of Minds - Intense Debate Competition between Arjunas and Bharatas at SSSIHL Brindavan Campus.
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EuJrjiopXRxFlXmBNxP0CeMBcHUnyrV9wt0wAu1zBs9KzQ?e=LfJkEp
-thumbnail: images/thumbnails/DSC_6434.JPG
+thumbnail: images/thumbnails/DSC_6434.webp
 draft: false
 ---
 

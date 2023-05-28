@@ -6,7 +6,7 @@ year: 2023
 categories: ["video"]
 desc_short: Unveiling Untold Stories - Brindavan Archives' Captivating Documentaries - Illuminating the Past, Inspiring the Present at SSSIHL Brindavan Campus
 link: https://youtube.com/playlist?list=PLUyvnxCM1pCbrxyMoU-UKvaCWML3deIpD
-thumbnail: images/thumbnails/doc.jpg
+thumbnail: images/thumbnails/doc.webp
 draft: false
 ---
 

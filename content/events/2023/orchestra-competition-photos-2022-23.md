@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Harmonious Symphony - Enchanting Orchestra Competition between Arjunas and Bharatas at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EnqB1N4He1lGuVKT_RDS9ucBTm6Wo0eozDbjjvqUPAKHLA?e=GVCILg
-thumbnail: images/thumbnails/DSC_6697.jpg
+thumbnail: images/thumbnails/DSC_6697.webp
 draft: false
 ---
 

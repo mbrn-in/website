@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Blissful Celebrations -  Joyous Ganesh Chaturthi at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Elqnw5cnLTlAjGeP-hD73ocBgWp2CiqFsrrGhVubjHRSlg?e=zqhObI
-thumbnail: images/thumbnails/DSC_0267.JPG
+thumbnail: images/thumbnails/DSC_0267.webp
 draft: false
 ---
 

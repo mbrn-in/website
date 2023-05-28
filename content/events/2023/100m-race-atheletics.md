@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Blazing Speed - Thrilling 100m Sprint at SSSIHL Brindavan Campus - Explosive Acceleration and Heart-Stopping Finishes
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EozKzH54EDJHuMJAUL6lOxoBqz3L9WPFRbN0zPJlkVsBwA?e=wlM3GJ
-thumbnail: images/thumbnails/DSC_8742.jpg
+thumbnail: images/thumbnails/DSC_8742.webp
 draft: false
 ---
 

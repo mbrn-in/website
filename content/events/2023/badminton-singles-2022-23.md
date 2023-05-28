@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Shuttle Showdown - Exhilarating Badminton Match at SSSIHL Brindavan Campus - Skill, Speed, and Smash on Full Display
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Evk2HcYCalRCqY5q3czhzHsB21pUmOmghczgKOuflcxjyw?e=fVP4VY
-thumbnail: images/thumbnails/DSC_2618.jpg
+thumbnail: images/thumbnails/DSC_2618.webp
 draft: false
 ---
 

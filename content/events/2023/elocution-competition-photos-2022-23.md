@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:  Art of Persuasion - Dynamic Elocution Competition at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Ej_aACnzJ81FqYskNG2l7zkBV4wPIjmq_FVZcEYBck67Lg?e=vYHfmr
-thumbnail: images/thumbnails/DSC_3517.JPG
+thumbnail: images/thumbnails/DSC_3517.webp
 draft: false
 ---
 

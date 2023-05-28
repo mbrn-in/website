@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Distance Dominance - Thrilling 10,000m Race at SSSIHL Brindavan Campus - Endurance, Strategy, and Perseverance Unleashed
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EgzgeqBMG1hFpBQt3uEPAeUBjjknHw_3Mu8eEO3gYu2JpA?e=dd231L
-thumbnail: images/thumbnails/IMG_4569.jpg
+thumbnail: images/thumbnails/IMG_4569.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Endurance Challenge - Exciting 1500m Race at SSSIHL Brindavan Campus - Determination, Stamina, and Grit Tested
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Euytx90DVqFOn3TjaixnOugBMxuYSI3G9V2rhZkx2LFfTA?e=hlZxKy
-thumbnail: images/thumbnails/DSC_3205.jpg
+thumbnail: images/thumbnails/DSC_3205.webp
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2023
 categories: ["video"]
 desc_short: Melodies of Love - Pyaar Ki Dastaan - Monday Music at Sri Sathya Sai Institute, Brindavan Campus
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCbmH1BEeS8KO5wOEvDMatec
-thumbnail: images/thumbnails/ihhxPx6LEFA-HD.jpg
+thumbnail: images/thumbnails/ihhxPx6LEFA-HD.webp
 draft: false
 ---
 

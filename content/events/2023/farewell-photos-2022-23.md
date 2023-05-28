@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Bidding Adieu with Gratitude - Sophomores' Farewell to Lakshyas - A Heartfelt Tribute to Lifelong Friendships
 link: https://drive.google.com/drive/folders/1WgkmVJJLZVm_2MDyO05zB6Ol0t9ZEzeH?usp=share_link
-thumbnail: images/thumbnails/IMG_8531.JPG
+thumbnail: images/thumbnails/IMG_8531.webp
 draft: false
 ---
 

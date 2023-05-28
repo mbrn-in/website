@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short: Azadi Ka Amrit Mahotsav - Celebrating 75th Indian Independence Day at SSSIHL Brindavan Campus
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EnX4rEiKHaRKtz8ekm6RvTgB1JV7IwU_wFRlsj6K1uwy7g?e=sscYMd
-thumbnail: images/thumbnails/DSC_0847.jpg
+thumbnail: images/thumbnails/DSC_0847.webp
 draft: false
 ---
 

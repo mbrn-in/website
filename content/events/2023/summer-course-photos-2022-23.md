@@ -6,7 +6,7 @@ year: 2022
 categories: ["photo"]
 desc_short:   Exploring the Essence - Summer Course in Indian Spirituality and Culture
 link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/Em3dhhy9E-dPjXQ_7lmDgmQBwNYc886zHmDsw9aqjxogUw?e=Jt3tZ9
-thumbnail: images/thumbnails/20220722_125527.jpg
+thumbnail: images/thumbnails/20220722_125527.webp
 draft: false
 ---
 
