@@ -1,22 +1,58 @@
-
-<footer class="bg1">
-    <div class="end-footer bg2">
-        <div class="container">
-            <div class="flex-sb-m flex-w p-t-22 p-b-22">
-                <div class="p-t-5 p-b-2">
-                    <p>You can find us at</p>
+    <!-- FOOTER -->
+    <div class="d-flex bg2 flex-column">
+    <footer class="w-100 py-4 flex-shrink-0">
+        <div class="container py-4">
+            <div class="row gy-4 gx-5">
+                <div class="col-lg-4 col-md-6">
+                    <div class="logo">
+                        <a href="/">
+                            <img src="/images/icons/logo.png" alt="IMG-LOGO" data-logofixed="/images/icons/logo.png"> Brindavan archives
+                        </a>
+                    </div>
+                    <p class="small text-muted mb-0"> </p>
                 </div>
-                
-                <div class="p-t-5 p-b-5">
-                    <a href="https://www.youtube.com/channel/UCf5tavUdZZX_4mUCHyq3lTw" class="fs-15 c-white"><img src="https://res.cloudinary.com/mbrn/image/upload/w_22,h_16/v1590377456/youtube-logo_fxjv5w.png"></a>
+                <div class="col-lg-2 col-md-6">
+                    <h5 class="text-white mb-3">Quick links</h5>
+                    <ul class="list-unstyled text-muted">
+                        {{ $currentPage := . }}
+                        {{ range .Site.Menus.main }}
+                        <li>
+                            <a class="menu-link {{ if or ($currentPage.IsMenuCurrent " main" .)
+                                ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}" href="{{ .URL }}">
+                                {{ .Name }}
+                            </a>
+                            {{ if .HasChildren }}
+                            <ul>
+                                {{ range .Children }}
+                                <li>
+                                    <a class="menu-link {{ if $currentPage.IsMenuCurrent " main" . }}active{{ end }}"
+                                        href="{{ .URL }}">
+                                        {{ .Name }}
+                                    </a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                            {{ end }}
+                        </li>
+                        {{ end }}
+                    </ul>
                 </div>
-
-                <div class="txt17 p-r-20 p-t-5 p-b-5">
-                    Stay updated with new feature and event additions to our website by joining our <a href="https://t.me/joinchat/R3-6EBwqW_9tcAfHJCfyhQ" targrt="_blank"> Telegram group</a><br>
-                    Copyright &copy; 2023 | All rights reserved by Multimedia department.
+                <div class="col-lg-2 col-md-6">
+                    <h5 class="text-white mb-3">Social</h5>
+                    <ul class="list-unstyled social-links text-muted">
+                        <li><a href="#"><i class="fa mr-2 fa-youtube fa-2x" aria-hidden="true"></i> YouTube </a></li>
+                        <li class="pt-1"><a href="#"><i class="fa mr-2 fa-telegram fa-2x" aria-hidden="true"></i> Telegram </a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <h5 class="text-white mb-3">Subscribe</h5>
+                    <p class="small text-muted">
+                        Subscribe to our YouTube channel and join our Telegram channel to get the latest updates.
+                        <br> <br>
+                        &copy; {{ now.Format "2006" }} | All rights reserved by Multimedia department. 
+                    </p>
                 </div>
             </div>
         </div>
-    </div>
-</footer> 
-
+    </footer>
+</div>

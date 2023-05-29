@@ -35,3 +35,13 @@
   gap: 1.7rem;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 }
+
+footer a {
+  color: #c2c0c0;
+}
+
+.social-links li a{
+  margin: .31rem;
+  display: flex;
+  align-items: center;
+}
