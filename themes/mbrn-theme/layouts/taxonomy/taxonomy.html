@@ -19,19 +19,29 @@
       <div class="row">
           <div class="col-md-8 col-lg-9">
 
-            <div class="card-deck p-t-80 p-b-124 bo5-r h-full p-r-9 p-r-0-md bo-none-md">
+            <div class="card-deck p-t-80 bo5-r h-full p-r-9 p-r-0-md bo-none-md">
 
-              {{ range .Pages.ByDate.Reverse }}
+              {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+              {{ range  $paginator.Pages }}
               
               {{ partial "postCardDeck" . }}
             
               {{ end }}
     
             </div>
-
             
           </div>
+
       </div>
+
+      <div class="row my-5">
+        <div class="col-md-8 col-lg-9"> 
+            <div class="d-flex justify-content-center py-3">
+              {{ template "_internal/pagination.html" . }}
+            </div>  
+        </div>
+      </div>
+
   </div>
 </section>
 

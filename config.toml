@@ -6,6 +6,10 @@ defaultContentLanguage = "en"
 # Theme to use
 theme = 'mbrn-theme'
 
+# Pagination
+paginate = 9
+paginatePath = "page"
+
 ############## Search ##############
 
 ############################# Outputs ##############################
