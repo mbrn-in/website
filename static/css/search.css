@@ -34,7 +34,7 @@
   width: 100%;
   border-radius: 4px;
   height: 52px;
-  padding: 0 15px 0 45px;
+  padding: 0 15px 0 51px;
   transition: 0.25s;
   outline: none;
 }
@@ -44,7 +44,7 @@
 .search-input-body label {
   position: absolute;
   left: 28px;
-  top: calc(50% - 7px);
+  top: 1.7rem;
 }
 .search-input-body label svg[type="reset"] {
   display: none;
