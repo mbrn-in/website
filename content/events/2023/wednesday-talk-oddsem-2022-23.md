@@ -1,12 +1,12 @@
 ---
-title: wedneday talk Playlist 2022-23
-date: 2023-04-19 09:00:00
-month: 2023/04
-year: 2023
-categories: ["video"]
+title: Wednesday talk - evensem 2022-23
+date: 2022-11-16 09:00:00
+month: 2022/11
+year: 2022
+categories: ["photo"]
 desc_short: Words that Inspire - Wisdom Unveiled - Wednesday Talk at SSSIHL Brindavan Campus
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZiWROqO6grYAnzQnOoSeVa
-thumbnail: images/thumbnails/wed talk.webp
+link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EqYGV3WvY8hNgnJOvXNharMBmcKA6MZGmzXrmK4NLyhjTg?e=CNPcll
+thumbnail: images/thumbnails/TST_2178.webp
 draft: false
 ---
 
