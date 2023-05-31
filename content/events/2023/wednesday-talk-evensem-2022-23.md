@@ -1,5 +1,5 @@
 ---
-title: wedneday talk - Evensem 2022-23
+title: Wednesday talk - evensem 2022-23
 date: 2023-04-19 09:00:00
 month: 2023/04
 year: 2023
