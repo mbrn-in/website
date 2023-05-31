@@ -21,6 +21,13 @@
   justify-content: space-between;
 }
 
+/* On small screens, set set max-width to 90% */
+@media screen and (max-width: 600px) {
+  .box {
+    max-width: 90%;
+  }
+}
+
 .box:hover {
   color: white;
   background-color: black;
