@@ -50,7 +50,7 @@ notAlternative = true
     name = "Watch"
     weight = 30
   [[languages.en.menu.main]]
-    url = "/categories/audio/"
+    url = "https://music.amazon.com/podcasts/c893bb2e-a486-4737-afa6-0e17e28829e6/brindavan-studio"
     name = "Listen"
     weight = 40
   [[languages.en.menu.main]]
