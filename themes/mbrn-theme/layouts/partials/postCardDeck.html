@@ -1,7 +1,7 @@
 {{- $link := .Permalink -}} 
 {{- $title := .Params.title -}}
 
-<a href="{{ $link }}" class="card">
+<a href="{{ $link }}" class="card hov-img-zoom">
 
   {{- with .Params.thumbnail -}}
   <img src="/{{ . }}" loading="lazy" alt="{{ $title }}" class="card-img-top">
