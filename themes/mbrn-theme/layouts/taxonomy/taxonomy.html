@@ -17,9 +17,9 @@
   </div>
   <div class="container">
       <div class="row">
-          <div class="col-md-8 col-lg-9">
+          <div class="col-md-8 col-lg-12">
 
-            <div class="card-deck p-t-80 bo5-r h-full p-r-9 p-r-0-md bo-none-md">
+            <div class="card-deck p-t-80 h-full p-r-9 p-r-0-md bo-none-md">
 
               {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
               {{ range  $paginator.Pages }}
@@ -35,7 +35,7 @@
       </div>
 
       <div class="row my-5">
-        <div class="col-md-8 col-lg-9"> 
+        <div class="col-md-8 col-lg-12"> 
             <div class="d-flex justify-content-center py-3">
               {{ template "_internal/pagination.html" . }}
             </div>  
