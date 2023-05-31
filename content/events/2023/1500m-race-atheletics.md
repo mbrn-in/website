@@ -1,5 +1,5 @@
 ---
-title: 1500m Race - Atheletics 2022-23
+title: 1500m Race - Athletics 2022-23
 date: 2022-12-04 06:00:00
 month: 2022/12
 year: 2022

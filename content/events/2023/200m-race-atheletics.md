@@ -1,5 +1,5 @@
 ---
-title: 200m Race - Atheletics 2022-23
+title: 200m Race - Athletics 2022-23
 date: 2022-11-04 06:00:00
 month: 2022/11
 year: 2022

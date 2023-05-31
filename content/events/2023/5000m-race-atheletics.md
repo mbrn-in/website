@@ -1,5 +1,5 @@
 ---
-title: 5000m Race - Atheletics 2022-23
+title: 5000m Race - Athletics 2022-23
 date: 2022-10-16 06:00:00
 month: 2022/10
 year: 2022

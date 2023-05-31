@@ -1,5 +1,5 @@
 ---
-title: High Jump - Atheletics 2022-23
+title: High Jump - Athletics 2022-23
 date: 2022-10-19 06:00:00
 month: 2022/10
 year: 2022

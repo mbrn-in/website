@@ -1,5 +1,5 @@
 ---
-title: Shotput - Atheletics 2022-23
+title: Shotput - Athletics 2022-23
 date: 2022-10-12 06:30:00
 month: 2022/10
 year: 2022

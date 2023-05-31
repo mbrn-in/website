@@ -1,5 +1,5 @@
 ---
-title: Triple Jump - Atheletics 2022-23
+title: Triple Jump - Athletics 2022-23
 date: 2022-10-18 07:00:00
 month: 2022/10
 year: 2022

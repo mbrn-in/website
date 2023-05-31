@@ -1,5 +1,5 @@
 ---
-title: Long Jump - Atheletics 2022-23
+title: Long Jump - Athletics 2022-23
 date: 2022-10-12 07:00:00
 month: 2022/10
 year: 2022

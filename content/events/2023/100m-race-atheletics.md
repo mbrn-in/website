@@ -1,5 +1,5 @@
 ---
-title: 100m Race - Atheletics 2022-23
+title: 100m Race - Athletics 2022-23
 date: 2022-10-20 06:00:00
 month: 2022/10
 year: 2022
