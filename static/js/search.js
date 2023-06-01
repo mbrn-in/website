@@ -217,6 +217,23 @@ if (hasSearchWrapper) {
         return content.replace(regex, (match) => `<u>${match}</u>`);
       };
 
+      const highlightResultContent = (content) => {
+        const regex = new RegExp(searchString, "gi");
+        const matchIndex = content.search(regex);
+
+        if (matchIndex >= 0) {
+          const matchedContent = content.slice(matchIndex);
+          const lastWord = content.slice(0, matchIndex).split(" ").pop();
+
+          return matchedContent.replace(
+            regex,
+            (match) => lastWord + `<mark>${match}</mark>`
+          );
+        }
+
+        return content;
+      };
+
       const filteredItems = item.data.filter(
         (d) =>
           d.title.toLowerCase().includes(searchString) ||
@@ -280,7 +297,7 @@ if (hasSearchWrapper) {
               categories == "true"
                 ? highlightResult(innerItem.categories)
                 : "nomatch",
-            content: contentValue,
+            content: highlightResultContent(innerItem.content),
           });
           return output;
         })
