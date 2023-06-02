@@ -26,7 +26,7 @@
 
 {
   "section": "{{.Section | humanize}}",
-  "slug": "{{- .RelPermalink -}}",
+  "slug": "{{- .RelPermalink -}}?ref=Search",
   "title": "{{- htmlEscape .Title -}}",
   "description": "{{- htmlEscape .Description}}",
   "date": "{{- $date -}}",
