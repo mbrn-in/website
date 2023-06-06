@@ -1,0 +1,16 @@
+---
+title: Convocation & Swami's 94th Birthday 2019-20
+date: 2019-11-22 14:30:00
+month: 2019/11
+year: 2019
+categories: ["photo"]
+
+desc_short: We are pleased to bring you glimpses of the 38th Convocation of SSSIHL & Swami's 94th B"Day celebrations. On this day, every devotee's heart and home is expectantly and joyously waiting to witness this celebration.
+link: https://drive.google.com/drive/folders/1UJGSQ8WmGRw34K_66UqhKIdZ92L2PLov?usp=sharing
+thumbnail: images/thumbnails/img1606036813.jpg
+draft: false
+---
+
+What is Bhagavanâ€™s benedictory guidance and blessings to not only His beloved graduating University Students, but also to each and every one of His students of life?
+
+The convocation in hermitages marked the close of a sweet chapter in life when ideals to be pursued in later years were implanted. The advice given by gurus during convocations was, "Consider mother as God, consider father as God, consider teacher as God, and consider the guest as God." Follow this fourfold exhortation with full faith in its validity, derive bliss therefrom and inspire others by your example, so that the Motherland may progress and prosper. Your parents are sacrificing their comforts and even necessities in order to ensure your progress. It is your duty to revere them and make them happy.

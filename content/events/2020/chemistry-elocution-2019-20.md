@@ -1,0 +1,15 @@
+---
+title: Chemistry Elocution 2019-20
+date: 2020-02-15 14:00:00
+month: 2020/02
+year: 2020
+categories: ["photo"]
+
+desc_short: Atoms and quarks may be too subtle for the eyes to perceive them.However when somebody tells us about them, it opens a whole new dimension for us to be excited about.
+
+link: https://drive.google.com/open?id=1loy9I-1YMD9beyqcz7UIQnone81vlK5-
+thumbnail: images/thumbnails/1589468081pic.jpg
+draft: false
+---
+
+Atoms and quarks may be too subtle for the eyes to perceive them.However when somebody tells us about them, it opens a whole new dimension for us to be excited about.
