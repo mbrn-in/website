@@ -9,3 +9,23 @@ This repo contains source code for the mbrn.in website.
 - Hugo - static site generator
 - Bootstrap & CSS - style & responsive design
 - Netlify - static hosting
+
+## How to add a new event?
+
+### Steps to add an event:
+
+1. Open GitHub Desktop and fetch origin.
+2. Switch back to Visual Studio Code.
+3. In the terminal, run `git pull` to sync with the latest changes.
+4. Create a new branch using `git checkout -b <name-of-the-branch>`.
+5. Navigate to the content folder.
+6. Go to the desired year folder.
+7. Create the event markdown file with the .md extension: `<filename/slug>.md`.
+8. Add and fill in the required details such as title, date, month, and year.
+9. Add the category of the event (photo, video, or audio).
+10. Add the required thumbnail image with the specified dimensions.
+11. Include a short description and a long description of the event.
+12. Add the YouTube link or Drive link or OneDrive link.
+13. Verify the changes locally by running the command `hugo server` in the terminal.
+14. If everything is correct, commit and push the changes to the newly created branch.
+15. Create a pull request and merge the branch into the main repository.
