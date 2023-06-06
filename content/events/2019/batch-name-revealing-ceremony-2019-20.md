@@ -1,0 +1,14 @@
+---
+title: Batch name revealing ceremony 2019-20
+date: 2019-06-24 18:30:00
+month: 2019/06
+year: 2019
+categories: ["photo"]
+
+desc_short: The Maharshis unite as they make a pledge to follow their ideal of 'Manasyekam Vachasyekam Karmanyekam'.
+link: https://drive.google.com/open?id=1egJdNeHJYNgfEi_vbTuz6gfaQzU0BxoS
+thumbnail: images/thumbnails/1589437895img_2631.jpg
+draft: false
+---
+
+The Maharshis made a thematic presentation revealing the intent behind their batch name and about the role they sought to play. They also potrayed the various facets of the life at Brindavan and the cementing of bonds as brothers. Following this was a melodious musical offering. 
