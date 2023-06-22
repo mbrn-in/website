@@ -45,7 +45,7 @@
 
                     {{ with site.Params.search }}
                     {{ if .enable }}
-                    <button data-target="search-modal" class="btn btn-danger m-r-7"><i class="fa fa-search"></i> Search </button>
+                    <button data-target="search-modal" data-umami-event="Search button click" class="btn btn-danger m-r-7"><i class="fa fa-search"></i> Search </button>
                     {{ end }}
                     {{ end }}
 
