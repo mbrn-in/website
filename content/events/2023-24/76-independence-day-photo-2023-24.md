@@ -1,10 +1,10 @@
 ---
-title: 77 Independence Day Photos 2023-24
+title: 76 Independence Day Photos 2023-24
 date: 2023-08-15 07:00:00
 month: 2023/08
 year: 2023
 categories: ["photo"]
-desc_short: Azadi Ka Amrit Mahotsav - Celebrating 77 years of Indian Independence at SSSIHL Brindavan Campus
+desc_short: Azadi Ka Amrit Mahotsav - Celebrating 76 years of Indian Independence at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/10DOVXKVXmvct9yfkzDOq92V8MOQoKxgy?usp=sharing
 thumbnail: images/thumbnails/2024/independence.webp
 draft: false

@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Divine Festival -  Joyous Ganesh Chaturthi at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/12hUdw5tmgIoIHmKXUOLd3EaYRO5T9qa7?usp=sharing
-thumbnail: images\thumbnails\2024\gc.webp
+thumbnail: images/thumbnails/2024/gc.webp
 draft: false
 ---
 
