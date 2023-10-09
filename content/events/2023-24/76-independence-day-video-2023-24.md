@@ -1,12 +1,12 @@
 ---
-title: 77 Independence Day Video 2023-24
+title: 76 Independence Day Video 2023-24
 date: 2023-08-15 07:00:00
 month: 2023/08
 year: 2023
 categories: ["video"]
-desc_short: Azadi Ka Amrit Mahotsav - Celebrating 77 years of Indian Independence at SSSIHL Brindavan Campus
+desc_short: Azadi Ka Amrit Mahotsav - Celebrating 76 years of Indian Independence at SSSIHL Brindavan Campus
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCauCj3O05OP2rNBBrt7cGY1
-thumbnail: images/thumbnails/independence.webp
+thumbnail: images/thumbnails/2024/independence.webp
 draft: false
 ---
 

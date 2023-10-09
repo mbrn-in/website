@@ -6,7 +6,7 @@ year: 2023
 categories: ["video"]
 desc_short: The Journey Begins - Investiture Ceremony at SSSIHL Brindavan Campus
 link: https://youtu.be/YWTpF-fhUYg?si=GOVNernkYFBwxbHX
-thumbnail: images\thumbnails\2024\investiture.webp
+thumbnail: images/thumbnails/2024/investiture.webp
 draft: false
 ---
 
