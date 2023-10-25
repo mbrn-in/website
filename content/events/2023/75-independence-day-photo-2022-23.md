@@ -1,12 +1,12 @@
 ---
-title: 76 Independence Day Photos 2023-24
-date: 2023-08-15 07:00:00
-month: 2023/09
-year: 2023
+title: 76 Independence Day Photos 2022-23
+date: 2022-08-15 07:00:00
+month: 2022/09
+year: 2022
 categories: ["photo"]
 desc_short: Azadi Ka Amrit Mahotsav - Celebrating 76 years of Indian Independence at SSSIHL Brindavan Campus
-#link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EnX4rEiKHaRKtz8ekm6RvTgB1JV7IwU_wFRlsj6K1uwy7g?e=sscYMd
-#thumbnail: images/thumbnails/DSC_0847.webp
+link: https://sssihleduin-my.sharepoint.com/:f:/g/personal/brnarchive_sssihl_edu_in/EnX4rEiKHaRKtz8ekm6RvTgB1JV7IwU_wFRlsj6K1uwy7g?e=sscYMd
+thumbnail: images/thumbnails/DSC_0847.webp
 draft: false
 ---
 

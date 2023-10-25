@@ -1,12 +1,12 @@
 ---
-title: Moral class Playlist 2023-24
+title: Moral class - oddsem - videos - 2023-24
 date: 2023-07-02 09:00:00
 month: 2023/07
 year: 2023
 categories: ["video"]
 desc_short: Nurturing Virtues - Moral Class at SSSIHL Brindavan Campus - Shaping Hearts, Illuminating Minds
-link: https://drive.google.com/drive/folders/1-4ITIC2E4E-VWzoOP9daEshg9In_hV0T?usp=sharing
-thumbnail: images\thumbnails\2024\moralclass.webp
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZUu5R-a7OXYb49lJLc3-ea
+thumbnail: images/thumbnails/2024/Moral.webp
 draft: false
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Yaadein Dil Ki - photos - 2023-24
+title: Yaadein Dil Ki - oddsem - Videos - 2023-24
 date: 2023-09-07 06:15:00
 month: 2023/09
 year: 2023
-categories: ["photo"]
+categories: ["video"]
 desc_short: Embracing Divine Presence - Yaadein Dil Ki - Friday talk - Students' Heartfelt Experience with Bhagawan Sri Sathya Sai Baba at SSSIHL Brindavan Campus Hostel
-link: https://drive.google.com/drive/folders/1nG2mWLZgz89wa66momk8xr17aDksvUzt?usp=sharing
-thumbnail: images/thumbnails/2024/yadein.webp
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCbJuFVaz7VoecX_0fJw6s3a
+thumbnail: images/thumbnails/2024/yad.webp
 draft: false
 ---
 
