@@ -1,8 +1,8 @@
 ---
-title: Elocution Competition Video 2023-24
-date: 2023-10-20 09:00:00
-month: 2023/10
-year: 2023
+title: Elocution Competition Video 2022-23
+date: 2022-10-20 09:00:00
+month: 2022/10
+year: 2022
 categories: ["video"]
 desc_short:  Art of Persuasion - Dynamic Elocution Competition at SSSIHL Brindavan Campus
 link: https://youtu.be/tgmvJp8yj_s

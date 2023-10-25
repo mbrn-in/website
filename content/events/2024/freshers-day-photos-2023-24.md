@@ -1,5 +1,5 @@
 ---
-title: Freshers Day Photos 2023-24
+title: Freshers Day - Photos - 2023-24
 date: 2023-07-23 06:30:00
 month: 2023/07
 year: 2023
