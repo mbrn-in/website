@@ -6,7 +6,7 @@ year: 2023
 categories: ["photo"]
 desc_short: Experience the thrill of speed and endurance in a captivating lineup of track events, from lightning-fast sprints to grueling long-distance races and exhilarating relay battles.
 link: https://drive.google.com/drive/folders/1x2grb0Y2N0Km7zsJPrgrjmpYc6AX3uQ0?usp=sharing
-thumbnail: 
+thumbnail: images/thumbnails/2024/Track.webp
 draft: false
 ---
 
