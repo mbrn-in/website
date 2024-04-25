@@ -1,12 +1,12 @@
 ---
-title: Vantage point - oddsem - Videos - 2023-24
-date: 2023-07-19 09:00:00
-month: 2023/07
-year: 2023
-categories: ["video"]
+title: Vantage point - evensem - photos - 2023-24
+date: 2024-02-13 09:00:00
+month: 2024/02
+year: 2024
+categories: ["photo"]
 desc_short: Words that Inspire - Wisdom Unveiled - Wednesday Talk at SSSIHL Brindavan Campus
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYviZHOdfhtQcCK1cuiw5-Q
-thumbnail: images/thumbnails/2024/VanPnt.webp
+link: https://drive.google.com/drive/folders/1Swkx3RSvT4UC7hHnzpRHhIVC7l9FTChk?usp=sharing
+thumbnail: images/thumbnails/2024/vantage.webp
 draft: false
 ---
 

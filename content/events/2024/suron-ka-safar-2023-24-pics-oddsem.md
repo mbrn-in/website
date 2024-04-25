@@ -1,12 +1,12 @@
 ---
-title: Suron Ka Safar - oddsem - Videos - 2023-24
+title: Suron Ka Safar - oddsem - Photos 2023-24
 date: 2023-07-24 09:00:00
 month: 2023/07
 year: 2023
-categories: ["video"]
+categories: ["photo"]
 desc_short: Musical Odyssey - Pyaar Ki Dastaan - Monday Music at Sri Sathya Sai Institute, Brindavan Campus
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCapzMN5tPbk-x52KYsHV6im
-thumbnail: images/thumbnails/2024/Suron.webp
+link: https://drive.google.com/drive/folders/1LD560D9h4ppZBeGJwIKTj7eAQiY0N4uw?usp=sharing
+thumbnail: images/thumbnails/2024/sks.webp
 draft: false
 ---
 
