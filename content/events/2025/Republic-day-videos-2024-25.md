@@ -5,7 +5,7 @@ month: 2025/01
 year: 2025
 categories: ["video"]
 desc_short: Republic Day celebrations at SSSIHL Brindavan campus 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYUYzgQwcolrYVSMLCLdckv
+link:  https://www.youtube.com/playlist?list=PLUyvnxCM1pCZmQQmRWotYGlb12cFPdQxn
 thumbnail: public\images\thumbnails\2025\Republic Day.webp
 draft: false
 ---

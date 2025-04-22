@@ -5,7 +5,7 @@ month: 2024/08
 year: 2024
 categories: ["video"]
 desc_short: Independence Day celebrations at Brindavan Campus 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYUYzgQwcolrYVSMLCLdckv
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZmQQmRWotYGlb12cFPdQxn
 thumbnail: public\images\thumbnails\2025\Independence Day.webp
 draft: false
 ---

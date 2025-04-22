@@ -1,5 +1,5 @@
 ---
-title: Pyaar Ka Naghma - Oddsem - Photos 2024-25
+title: Pyaar Ka Naghma - Evensem - Photos 2024-25
 date: 2024-07-24 09:00:00
 month: 2024/07
 year: 2024

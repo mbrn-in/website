@@ -1,5 +1,5 @@
 ---
-title: Monoa-cting Competition photos 2024-25
+title: Mono-acting Competition photos 2024-25
 date: 2024-09-12 06:00:00
 month: 2024/09
 year: 2024

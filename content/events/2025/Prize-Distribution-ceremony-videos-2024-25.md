@@ -1,5 +1,5 @@
 ---
-title: Prize Distribution Ceremony - Photos - 2024-25
+title: Prize Distribution Ceremony - Videos - 2024-25
 date: 2024-08-22 07:00:00
 month: 2024/08
 year: 2025
