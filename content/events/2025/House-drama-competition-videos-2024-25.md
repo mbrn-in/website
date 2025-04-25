@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas House Drama Competition 2024-25
+title: Arjunas vs Bharatas House Drama Competition Videos 2024-25
 date: 2024-12-15 06:00:00
 month: 2024/12
 year: 2024
 categories: ["video"]
 desc_short: House drama Competition 2024-25
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYUYzgQwcolrYVSMLCLdckv
-thumbnail: public\images\thumbnails\2025\Drama.webp
+link: https://youtu.be/0S19bhIIqdg
+thumbnail: images/thumbnails/2025/Drama.jpg
 draft: false
 ---
 

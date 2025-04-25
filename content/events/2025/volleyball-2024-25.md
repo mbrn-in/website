@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Spike Showdown - Arjunas vs. Bharatas - Thrilling Volleyball Clash at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1BEAW8VUVFQzDyQX4mx7780z0fXieeJqu?usp=drive_link
-thumbnail: public\images\thumbnails\2025\VolleyBall.webp
+thumbnail: images/thumbnails/2025/VolleyBall.jpg
 draft: false
 ---
 

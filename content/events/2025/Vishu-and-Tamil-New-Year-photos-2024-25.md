@@ -6,7 +6,7 @@ year: 2025
 categories: ["photo"]
 desc_short: Vishu and Tamil New Year celebrations at SSSIHL Brindavan Campus 
 link: https://drive.google.com/drive/folders/1yrpmnrUq-SJ2rn_r2KEKHmj90zPZzjPy?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Tamil New Year.webp
+thumbnail: images/thumbnails/2025/Tamil-New-Year.jpg
 draft: false
 ---
 

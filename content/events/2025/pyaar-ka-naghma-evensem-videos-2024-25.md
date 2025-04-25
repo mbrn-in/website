@@ -6,7 +6,7 @@ year: 2024
 categories: ["video"]
 desc_short: Melodic Mornings - Pyaar Ka Naghma - Monday Music at Sri Sathya Sai Institute, Brindavan Campus
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZ5PlZBK-ZyPwWhVw6R6DxV
-thumbnail: public\images\thumbnails\2025\Pyar Ka Naghma.webp
+thumbnail: images/thumbnails/2025/Pyar-Ka-Naghma.jpg
 draft: false
 ---
 

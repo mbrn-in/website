@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas Debate competition 2024-25
+title: Arjunas vs Bharatas Debate competition Videos 2024-25
 date: 2024-12-12 06:00:00
 month: 2024/12
 year: 2024
 categories: ["video"]
 desc_short: Arjunas vs. Bharatas - Debate Competition 
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYUYzgQwcolrYVSMLCLdckv
-thumbnail: public\images\thumbnails\2025\debate _.webp
+thumbnail: images/thumbnails/2025/debate.jpg
 draft: false
 ---
 

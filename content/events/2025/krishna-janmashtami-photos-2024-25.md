@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short:   Divine Leelas - Celebrating Krishna Janmashtami at SSSIHL Brindavan Campus.
 link: https://drive.google.com/drive/folders/1AL90_TI5cBYaB-J1H2WHYrRD3549kHFj?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Krishna Janmashtami.webp
+thumbnail: images/thumbnails/2025/Krishna-Janmashtami.jpg
 draft: false
 ---
 

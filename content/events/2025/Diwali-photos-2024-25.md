@@ -1,12 +1,12 @@
 ---
-title: Diwali celebrations 2024-25
+title: Diwali celebrations Photos 2024-25
 date: 2023-11-01 09:30:00
 month: 2024/11
 year: 2024
 categories: ["photo"]
 desc_short: Celebrating the festival of lights Diwali at Brindavan campus 
 link:  https://drive.google.com/drive/folders/1KQiss90ffv7EAcuZaYqaKKhzeRg8lszo?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Diwali Celebrations_II_341.webp
+thumbnail: images/thumbnails/2025/Diwali-Celebrations.jpg
 draft: false
 ---
 

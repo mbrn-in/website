@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Celebrating Ashadi Ekadashi at Brindavan campus 
 link: https://drive.google.com/drive/folders/1DaxZLy5mhJwDlutI7XLe1rgSdXvk3Uhy?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Ashadi Ekadashi_.webp
+thumbnail: images/thumbnails/2025/Ashadi-Ekadashi.jpg
 draft: false
 ---
 

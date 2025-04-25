@@ -1,12 +1,12 @@
 ---
-title: Badminton finals  Match 2024-25
+title: Badminton finals Match Photos 2024-25
 date: 2024-08-27 06:00:00
 month: 2024/08
 year: 2024
 categories: ["photo"]
 desc_short: Fast Feathers - Exhilarating Badminton Match at SSSIHL Brindavan Campus - Skill, Speed, and Smash on Full Display
 link: https://drive.google.com/drive/folders/15UwzyZuirbwBLPRUDT8C_wk92SWnclPf?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Badminton_.webp
+thumbnail: images/thumbnails/2025/Badminton.jpg
 draft: false
 ---
 

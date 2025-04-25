@@ -1,12 +1,12 @@
 ---
-title: Freshers Day - Videos - 2024-25
+title: Freshers Day Videos 2024-25
 date: 2024-07-14 06:30:00
 month: 2024/07
 year: 2024
 categories: ["video"]
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZ5kcBEvZipglUeBEOm7bxk
+link: 
 desc_short: A Joyful Beginning - Freshers' Day Celebration at SSSIHL Brindavan Campus
-thumbnail: public\images\thumbnails\2025\Freshers day.webp
+thumbnail: images/thumbnails/2025/Freshers-day.jpg
 draft: false
 ---
 

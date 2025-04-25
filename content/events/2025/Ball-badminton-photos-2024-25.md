@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas Ball badminton Match 2024-25
+title: Arjunas vs Bharatas Ball badminton Match Photos 2024-25
 date: 2024-09-13 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
 desc_short: Net Thriller - Arjunas vs. Bharatas - Intense Ball Badminton Match at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1froIRsmWZSuqY5kSkB4ZxehtqCuhQQGF?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Ballbadminton_.webp
+thumbnail: images/thumbnails/2025/Ballbadminton_.jpg
 draft: false
 ---
 

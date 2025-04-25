@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Mono-acting competiton at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/142DXOEx7qwfKaj5q5iAF2L1Q0NcpzlmD?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Monoacting_.webp
+thumbnail: images/thumbnails/2025/Monoacting.jpg
 draft: false
 ---
 

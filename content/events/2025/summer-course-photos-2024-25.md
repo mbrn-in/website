@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short:   Exploring the Essence - Summer Course in Indian Spirituality and Culture
 link: https://drive.google.com/drive/folders/1I1-xj324VsFFVLVdy2PDSHOx-jYBM7bg?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Summer Course.webp
+thumbnail: images/thumbnails/2025/Summer-Course.jpg 
 draft: false
 ---
 

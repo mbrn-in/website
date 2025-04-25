@@ -6,7 +6,7 @@ year: 20247
 categories: ["photo"]
 desc_short: Vocals Final Competition 
 link: https://drive.google.com/drive/folders/1BF-7Sty1CiUMUvucU_gzykRlr_jIsLQi?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Vocals Finals_.webp
+thumbnail: images/thumbnails/2025/Vocals-Finals.jpg
 draft: false
 ---
 

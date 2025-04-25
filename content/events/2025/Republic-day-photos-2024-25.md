@@ -1,12 +1,12 @@
 ---
-title: Republic day celebrations 2024-25
+title: Republic day celebrations Photos 2024-25
 date: 2025-01-26 06:00:00
 month: 2025/01
 year: 2025
 categories: ["photo"]
 desc_short: Republic Day celebrations at SSSIHL Brindavan campus 
 link: https://drive.google.com/drive/folders/1H1Gk617F21RBkJiWuJjUQfj6cTN_Mvy1?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Republic Day.webp
+thumbnail: images/thumbnails/2025/Republic-Day.jpg
 draft: false
 ---
 

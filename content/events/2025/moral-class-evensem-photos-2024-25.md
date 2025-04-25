@@ -6,7 +6,7 @@ year: 2024
 categories: ["photos"]
 desc_short: Principle Pursuit - Moral Class at Sri Sathya Sai Institute, Brindavan Campus
 link: https://drive.google.com/drive/folders/15tA3diMt2dGgiTcc9rplJAcaDb4cs8tt?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Moral Class.webp
+thumbnail: images/thumbnails/2025/Moral-Class.jpg
 draft: false
 ---
 

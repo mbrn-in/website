@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas Cricket Match 2024-25
+title: Arjunas vs Bharatas Cricket Match Photos 2024-25
 date: 2024-09-15 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
 desc_short:  Cricket Showdown - Arjunas vs. Bharatas - Battling for Glory on the Cricket Pitch at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1MOFStdQcxA90hMMLUYyi6B_BQwhhIbzB?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Cricket_.webp
+thumbnail: images/thumbnails/2025/Cricket.jpg
 draft: false
 ---
 

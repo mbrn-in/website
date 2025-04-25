@@ -6,7 +6,7 @@ year: 2025
 categories: ["photos"]
 desc_short: Celebrating 10 years of Brindavan Brass Band 
 link: https://drive.google.com/drive/folders/1qNyi6e8cGpApFp_vH6kC6a5bAmYIHR4X?usp=drive_link
-thumbnail: public\images\thumbnails\2025\10 years of Band.webp
+thumbnail: images/thumbnails/2025/10-years-of-Band.jpg
 draft: false
 ---
 

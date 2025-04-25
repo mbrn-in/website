@@ -10,6 +10,15 @@ This repo contains source code for the mbrn.in website.
 - Bootstrap & CSS - style & responsive design
 - Netlify - static hosting
 
+## Where to add thumbnails?
+
+Please don't touch the `public` folder. It's an automatically generated directory.
+You've no thing to do with it.
+
+- Add the thumbnails in `static\images\thumbnails` folder.
+- Images can be added as png/jpg, .webp conversion is taken care automatically.
+- Ensure that there are no spaces in the names of images. Either use hyphens or underscores. For example: `guru-purnima-2025.png`.
+
 ## Steps to add an event:
 
 1. Open GitHub Desktop and fetch origin.
@@ -20,6 +29,8 @@ This repo contains source code for the mbrn.in website.
 6. Go to the desired year folder.
 7. Create the event markdown file with the .md extension: `<filename/slug>.md`.
 8. Add and fill in the required details such as title, date, month, and year.
+The title should be in this format: `<event-name> photos/videos year`
+Eg: `independence day photos 2025`
 9. Add the category of the event (photo, video, or audio).
 10. Add the required thumbnail image with the specified dimensions.
 11. Include a short description and a long description of the event.

@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas Basketball Match 2024-25
+title: Arjunas vs Bharatas Basketball Match Photos 2024-25
 date: 2024-09-12 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
 desc_short: Basket Brawl - Arjunas vs. Bharatas - Intense Hoops Showdown at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1Lhxj1-VgbCE580ObKOjiXr_aj5EIV5ip?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Basketball.webp
+thumbnail: images/thumbnails/2025/Basketball.jpg
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Blooming Festivities - Onam Celebrations at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1zTYPs4x86MPmA18MBG-kQvEy_Go2wTTg?usp=drive_link
-thumbnail: public\images\thumbnails\2025\onam_.webp
+thumbnail: images/thumbnails/2025/onam.jpg
 draft: false
 ---
 

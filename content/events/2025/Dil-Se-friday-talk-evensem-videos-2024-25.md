@@ -6,7 +6,7 @@ year: 2024
 categories: ["video"]
 desc_short: Embracing Divine Presence - Dil Se - Friday talk - Students' Heartfelt Experience with Bhagawan Sri Sathya Sai Baba at SSSIHL Brindavan Campus Hostel
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZiHk2JX90EY7Y-rqCl9T5y
-thumbnail: public\images\thumbnails\2025\Dil Se.webp
+thumbnail: images/thumbnails/2025/Dil-Se.jpg
 draft: false
 ---
 

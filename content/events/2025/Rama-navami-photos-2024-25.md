@@ -1,12 +1,12 @@
 ---
-title: Ram Navami Celebrations 2024-25
+title: Ram Navami Celebrations Photos 2024-25
 date: 2025-04-06 06:00:00
 month: 2025/04
 year: 2025
 categories: ["photo"]
 desc_short: Adipurusha- Celebrating Sri Rama Navami at SSSIHL Brindavan campus 
 link: https://drive.google.com/drive/folders/1CmDzuUzc5v5iBnlX5JC4Qz01-cqBt7gB?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Ram Navami.webp
+thumbnail: images/thumbnails/2025/Ram-Navami.jpg
 draft: false
 ---
 

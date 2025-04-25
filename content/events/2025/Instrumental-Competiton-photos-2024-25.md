@@ -1,12 +1,12 @@
 ---
-title: Instrumental competition Finals 2024-25
+title: Instrumental competition Finals Photos 2024-25
 date: 2024-09-22 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
 desc_short: Instrumental Competition Finals 2024-25
 link: https://drive.google.com/drive/folders/1GaCVsPN5vPZ6uJjVP9iTsKdahR12GuWS?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Instrumentntal_.webp
+thumbnail: images/thumbnails/2025/Instrumentntal.jpg
 draft: false
 ---
 

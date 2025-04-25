@@ -1,12 +1,12 @@
 ---
-title: Altar Competition 2024-25
+title: Altar Competition Photos 2024-25
 date: 2024-08-26 09:00:00
 month: 2024/08
 year: 2024
 categories: ["photo"]
 desc_short: Sacred Showcase - Sacred Altar Competition Illuminates Each Room at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1orJeEu6L3utOn5DYdMen4NKoKDphm2ep?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Altar.webp
+thumbnail: images/thumbnails/2025/Altar.jpg
 draft: false
 ---
 

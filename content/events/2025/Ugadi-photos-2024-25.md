@@ -6,7 +6,7 @@ year: 2025
 categories: ["photo"]
 desc_short: Ugadi celebrations at SSSIHL Brindavan Campus 
 link: https://drive.google.com/drive/folders/1t6Cgc594_Hnc2s67av2v6r6ia15kXPzr?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Ugadi.webp
+thumbnail: images/thumbnails/2025/Ugadi.jpg
 draft: false
 ---
 

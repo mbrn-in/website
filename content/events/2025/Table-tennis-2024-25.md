@@ -1,12 +1,12 @@
 ---
-title: Table Tennis Match 2024-25
+title: Table Tennis Match photos 2024-25
 date: 2024-08-23 06:00:00
 month: 2024/08
 year: 2024
 categories: ["photo"]
 desc_short: Paddle Power - Intense Battle of Skills at SSSIHL Brindavan Campus - Spin, Speed, and Precision Collide
 link: https://drive.google.com/drive/folders/1Jm07gVYbSgiQgwy5I63gTsAMxrj7t-ci?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Table Tennis.webp
+thumbnail: images/thumbnails/2025/Table-Tennis.jpg
 draft: false
 ---
 

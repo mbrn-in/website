@@ -1,12 +1,12 @@
 ---
 title: Christmas celebration photos 2024-25
-date: 2023-12-15 06:00:00
+date: 2024-12-25 06:00:00
 month: 2024/12
 year: 2024
 categories: ["photo"]
 desc_short: Festival of the winter seasons- Christmas celebrated at SSSIHL Brindavan Campus 
 link: https://drive.google.com/drive/folders/1BF2ArFiwft9HBaMOw5Z_H-wgOS03jDJA?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Christmas.webp
+thumbnail: images/thumbnails/2025/Christmas.jpg
 draft: false
 ---
 

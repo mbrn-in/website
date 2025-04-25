@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Arjunas vs. Bharatas - Orchestra Competition 
 link: https://drive.google.com/drive/folders/11sXGpMKHvAzt72qckgvxA2RgneKHfnxD?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Orchestra_.webp
+thumbnail: images/thumbnails/2025/Orchestra.jpg
 draft: false
 ---
 

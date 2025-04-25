@@ -5,8 +5,8 @@ month: 2025/03
 year: 2025
 categories: ["video"]
 desc_short:   Sacred Showcase - Sacred Altar Competition Illuminates Each Room at SSSIHL Brindavan Campus
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZ5kcBEvZipglUeBEOm7bxk
-thumbnail: public\images\thumbnails\2025\Farewell.webp
+link: https://youtu.be/c7tF18HdKWY
+thumbnail: images/thumbnails/2025/Farewell.jpg
 draft: false
 ---
 

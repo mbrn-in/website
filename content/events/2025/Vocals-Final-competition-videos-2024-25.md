@@ -5,8 +5,8 @@ month: 2024/09
 year: 20247
 categories: ["video"]
 desc_short: Vocals Final Competition 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYUYzgQwcolrYVSMLCLdckv
-thumbnail: public\images\thumbnails\2025\Vocals Finals_.webp
+link: https://youtu.be/1ex786RxTbw
+thumbnail: images/thumbnails/2025/Vocals-Finals.jpg
 draft: false
 ---
 

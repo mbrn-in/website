@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas House GK quiz competition photos 2024-25 
+title: Arjunas vs Bharatas House GK Quiz competition photos 2024-25 
 date: 2024-10-03 09:00:00
 month: 2024/10
 year: 2024
 categories: ["photo"]
 desc_short: Arjunas vs. Bharatas - House GK quiz competition at Brindavan campus 
 link: https://drive.google.com/drive/folders/1CwSgTugGjvh2Wsz8Ip7721BBM8-vFgAR?usp=drive_link
-thumbnail: public\images\thumbnails\2025\GK quiz competiton _.webp
+thumbnail: images/thumbnails/2025/GK-quiz-competiton.jpg
 draft: false
 ---
 

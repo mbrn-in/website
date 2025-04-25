@@ -5,8 +5,8 @@ month: 2024/07
 year: 2024
 categories: ["video"]
 desc_short: Celebrating Ashadi Ekadashi at Brindavan campus 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZmQQmRWotYGlb12cFPdQxn
-thumbnail: public\images\thumbnails\2025\Ashadi Ekadashi_.webp
+link: https://youtu.be/aATBThDkh_E
+thumbnail: images/thumbnails/2025/Ashadi-Ekadashi.jpg
 draft: false
 ---
 

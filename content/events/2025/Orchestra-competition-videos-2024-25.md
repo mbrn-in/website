@@ -5,8 +5,8 @@ month: 2024/10
 year: 2024
 categories: ["video"]
 desc_short: Arjunas vs. Bharatas - Orchestra Competition 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCYUYzgQwcolrYVSMLCLdckv
-thumbnail: public\images\thumbnails\2025\Orchestra_.webp
+link: https://youtu.be/6MBiUrZeSKk
+thumbnail: images/thumbnails/2025/Orchestra.jpg
 draft: false
 ---
 

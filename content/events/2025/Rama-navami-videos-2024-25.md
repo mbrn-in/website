@@ -1,12 +1,12 @@
 ---
-title: Ram Navami Celebrations 2024-25
+title: Ram Navami Celebrations Videos 2024-25
 date: 2025-04-06 06:00:00
 month: 2025/04
 year: 2025
 categories: ["video"]
 desc_short: Adipurusha- Celebrating Sri Rama Navami at SSSIHL Brindavan campus 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZmQQmRWotYGlb12cFPdQxn
-thumbnail: public\images\thumbnails\2025\Ram Navami.webp
+link: https://youtu.be/FXfmhFf2gX8
+thumbnail: images/thumbnails/2025/Ram-Navami.jpg
 draft: false
 ---
 

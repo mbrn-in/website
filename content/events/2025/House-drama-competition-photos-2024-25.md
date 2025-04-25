@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas House Drama Competition 2024-25
+title: Arjunas vs Bharatas House Drama Competition Photos 2024-25
 date: 2024-12-15 06:00:00
 month: 2024/12
 year: 2024
 categories: ["photo"]
 desc_short: House drama Competition 2024-25
 link: https://drive.google.com/drive/folders/1zq18MAv7tuvea5zJ1kAjiU9HJ1kG5H-T?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Drama.webp
+thumbnail: images/thumbnails/2025/Drama.jpg
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2025
 categories: ["photo"]
 desc_short: New Year celebrations at SSSIHL Brindavan Campus 
 link: https://drive.google.com/drive/folders/1qDwl0HOgrhJTNbiWv2rNFO3KeM77cjqV?usp=drive_link
-thumbnail: public\images\thumbnails\2025\New Year.webp
+thumbnail: images/thumbnails/2025/New-Year.jpg
 draft: false
 ---
 

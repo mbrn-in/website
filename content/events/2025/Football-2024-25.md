@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas Football Match 2024-25
+title: Arjunas vs Bharatas Football Match Photos 2024-25
 date: 2024-09-10 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
 desc_short: Battle on the Field - Arjunas vs. Bharatas - Exciting Football Showdown at SSSIHL Brindavan Campus.
 link: https://drive.google.com/drive/folders/1gKqIWsQIx3dUfEIV8p-BnG8FBXjD1nBH?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Football_.webp
+thumbnail: images/thumbnails/2025/Football.jpg
 draft: false
 ---
 

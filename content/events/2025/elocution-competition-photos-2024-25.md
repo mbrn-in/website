@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short:  Speech Battle - Dynamic Elocution Competition at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1vk91R1Fi3vw9qBjAuw3F5Qc7bwBFub-J?usp=drive_link
-thumbnail: public\images\thumbnails\2025\elocution_.webp
+thumbnail: images/thumbnails/2025/elocution.jpg
 draft: false
 ---
 

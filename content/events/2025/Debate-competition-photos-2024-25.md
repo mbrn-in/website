@@ -1,12 +1,12 @@
 ---
-title: Arjunas vs Bharatas Debate competition 2024-25
+title: Arjunas vs Bharatas Debate competition Photos 2024-25
 date: 2024-12-12 06:00:00
 month: 2024/12
 year: 2024
 categories: ["photo"]
 desc_short: Arjunas vs. Bharatas - Debate Competition 
 link: https://drive.google.com/drive/folders/1DoeGU0Lkes_rBzOiVTemiUaP-PDghtAJ?usp=drive_link
-thumbnail: public\images\thumbnails\2025\debate _.webp
+thumbnail: images/thumbnails/2025/debate.jpg
 draft: false
 ---
 

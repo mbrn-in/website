@@ -6,7 +6,7 @@ year: 2025
 categories: ["photo"]
 desc_short: The - Prize Disribution Ceremony at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1Xf8iSVZdCR_3YcYqcC73r4uxc2yXLRoL?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Prize Distribution.webp
+thumbnail: images/thumbnails/2025/Prize-Distribution.jpg
 draft: false
 ---
 

@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: The Journey Begins - Investiture Ceremony at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1p6_fRiZQgN_0sl5MTANRIMjm3JKEQPJn?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Investiture.webp
+thumbnail: images/thumbnails/2025/Investiture.jpg
 draft: false
 ---
 

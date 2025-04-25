@@ -1,12 +1,12 @@
 ---
-title: Lawn Tennis finals - 2024-25
+title: Lawn Tennis finals Photos - 2024-25
 date: 2024-08-28 06:00:00
 month: 2024/08
 year: 2024
 categories: ["photo"]
 desc_short: Racket Resilience - Intense Tennis Match at SSSIHL Brindavan Campus - Skills, Strategy, and Determination on Full Display
 link: https://drive.google.com/drive/folders/1WlZCwPXUxeR1gi3BGLKSbqoDL5bLH3WI?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Lawn Tennis.webp
+thumbnail: images/thumbnails/2025/Lawn-Tennis.jpg
 draft: false
 ---
 

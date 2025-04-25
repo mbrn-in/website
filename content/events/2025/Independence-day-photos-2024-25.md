@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Independence Day celebrations at Brindavan Campus 
 link: https://drive.google.com/drive/folders/1RQ2wJvhavjwJ_mdvVesO2TPKSAQ-WV-a?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Independence Day.webp
+thumbnail: images/thumbnails/2025/Independence-Day.jpg
 draft: false
 ---
 

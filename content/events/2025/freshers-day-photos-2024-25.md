@@ -1,12 +1,12 @@
 ---
-title: Freshers Day - Photos - 2024-25
+title: Freshers Day Photos 2024-25
 date: 2024-07-14 06:30:00
 month: 2024/07
 year: 2024
 categories: ["photo"]
 link: https://drive.google.com/drive/folders/1waghNDez6B0MwS40Zwst-YqKXvRA8ph_?usp=drive_link
 desc_short: A Joyful Beginning - Freshers' Day Celebration at SSSIHL Brindavan Campus
-thumbnail: public\images\thumbnails\2025\Freshers day.webp
+thumbnail: images/thumbnails/2025/Freshers-day.jpg
 draft: false
 ---
 

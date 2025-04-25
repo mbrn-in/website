@@ -5,8 +5,8 @@ month: 2025/04
 year: 2025
 categories: ["video"]
 desc_short: Vishu and Tamil New Year celebrations at SSSIHL Brindavan Campus 
-link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZmQQmRWotYGlb12cFPdQxn
-thumbnail: public\images\thumbnails\2025\Tamil New Year.webp
+link: https://youtu.be/Oj9M2MLBYWQ
+thumbnail: images/thumbnails/2025/Tamil-New-Year.jpg
 draft: false
 ---
 

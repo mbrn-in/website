@@ -1,12 +1,12 @@
 ---
-title: Annual Athletics Events 2024-25
+title: Annual Athletics Events Photos 2024-25
 date: 2024-09-29 06:00:00
 month: 2024/09
 year: 2024
 categories: ["photo"]
 desc_short: Battle of the finest athletes of SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1Zrmsal7U4JEdytyWIzmek0N-tNJTZU-F?usp=drive_link
-thumbnail: public\images\thumbnails\2025\Athletics.webp
+thumbnail: images/thumbnails/2025/Athletics.jpg
 draft: false
 ---
 
