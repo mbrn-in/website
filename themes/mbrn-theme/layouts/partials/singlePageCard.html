@@ -2,8 +2,11 @@
     <div class="pic-blo4 hov-img-zoom bo-rad-10 pos-relative">
 
       {{- $title := .Params.title -}} 
-      {{- with .Params.thumbnail -}}
-          <img src="/{{ . }}" loading="lazy" alt="{{ $title }}" />
+
+      {{- with resources.Get (.Params.thumbnail) -}}
+        {{- with .Resize "870x" -}}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy" alt="{{ $title }}">
+        {{- end -}}
       {{- end -}}
   
       <div class="date-blo4 flex-col-c-m">
