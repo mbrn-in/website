@@ -4,7 +4,7 @@
       {{- $title := .Params.title -}} 
 
       {{- with resources.Get (.Params.thumbnail) -}}
-        {{- with .Resize "870x" -}}
+        {{- with .Resize "870x CatmullRom webp photo" -}}
         <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy" alt="{{ $title }}">
         {{- end -}}
       {{- end -}}
