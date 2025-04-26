@@ -59,7 +59,13 @@ notAlternative = true
     weight = 50
 
 
-# Links format
+################## Mounts ##################
+[module]
+  [[module.mounts]]
+    disableWatch = false
+    source = 'static'
+    target = 'assets'
+
 
 
 [params]
