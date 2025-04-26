@@ -3,8 +3,10 @@
 
 <a href="{{ $link }}" class="card hov-img-zoom">
 
-  {{- with .Params.thumbnail -}}
-  <img src="/{{ . }}" loading="lazy" alt="{{ $title }}" class="card-img-top">
+  {{- with resources.Get (.Params.thumbnail) -}}
+    {{- with .Resize "360x" -}}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy" alt="{{ $title }}" class="card-img-top">
+    {{- end -}}
   {{- end -}}
 
   <div class="card-body">

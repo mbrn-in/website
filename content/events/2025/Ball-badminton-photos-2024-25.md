@@ -6,7 +6,7 @@ year: 2024
 categories: ["photo"]
 desc_short: Net Thriller - Arjunas vs. Bharatas - Intense Ball Badminton Match at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1froIRsmWZSuqY5kSkB4ZxehtqCuhQQGF?usp=drive_link
-thumbnail: images/thumbnails/2025/Ballbadminton_.jpg
+thumbnail: images/thumbnails/2025/Ballbadminton.jpg
 draft: false
 ---
 

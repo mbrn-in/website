@@ -4,7 +4,7 @@ date: 2024-07-14 06:30:00
 month: 2024/07
 year: 2024
 categories: ["video"]
-link: 
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZg79EKp37UKSrCH_lLFBUv
 desc_short: A Joyful Beginning - Freshers' Day Celebration at SSSIHL Brindavan Campus
 thumbnail: images/thumbnails/2025/Freshers-day.jpg
 draft: false
