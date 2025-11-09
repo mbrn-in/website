@@ -1,8 +1,8 @@
 ---
-title: Final vocals Competition photos 2024-25
-date: 2024-09-08 06:00:00
-month: 2024/09
-year: 20247
+title: Final vocals Competition photos 2025-26
+date: 2025-08-10 17:00:00
+month: 2025/08
+year: 2025
 categories: ["photo"]
 desc_short: Vocals Final Competition 
 link: https://drive.google.com/drive/folders/1BF-7Sty1CiUMUvucU_gzykRlr_jIsLQi?usp=drive_link
@@ -10,4 +10,4 @@ thumbnail: images/thumbnails/2025/Vocals-Finals.jpg
 draft: false
 ---
 
- The Vocal Competition at SSSIHL Brindavan Campus was a remarkable display of talent, passion, and vocal mastery. Participants took the stage solo, captivating the audience with their powerful voices, flawless technique, and emotive renditions. From classical ragas to devotional songs, each performance was a unique journey, showcasing the artist's deep connection to music. The competition highlighted not only the skill of the singers but also their ability to convey emotion and bring life to every note. It was an evening filled with melody and soul, leaving the audience in awe of the incredible vocal talent on display.
+ The Vocal Competition at SSSIHL Brindavan Campus was a mesmerizing celebration of music, passion, and artistry. One by one, participants graced the stage with soulful performances that enthralled the audience. From timeless classical ragas to heartfelt devotional renditions, each singer showcased not only technical brilliance but also the ability to infuse every note with emotion and depth. The evening resonated with melody, harmony, and spiritual fervor, leaving listeners deeply moved and inspired. Truly, it was a remarkable showcase of vocal excellence and the transformative power of music.

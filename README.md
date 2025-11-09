@@ -32,9 +32,9 @@ You've no thing to do with it.
 The title should be in this format: `<event-name> photos/videos year`
 Eg: `independence day photos 2025`
 9. Add the category of the event (photo, video, or audio).
-10. Add the required thumbnail image with the specified dimensions.
+10. Add the required thumbnail image with the specified dimensions. Ensure that image has .jpg/png extension not .JPG/PNG (uppercase).
 11. Include a short description and a long description of the event.
 12. Add the YouTube link or Drive link or OneDrive link.
-13. Verify the changes locally by running the command `hugo server` in the terminal.
-14. If everything is correct, commit and push the changes to the newly created branch.
+13. Verify the changes locally by running the command `hugo server --navigateToChanged` in the terminal.
+14. If everything is correct, commit and push the changes to the **newly created** branch.
 15. Create a pull request and merge the branch into the main repository.

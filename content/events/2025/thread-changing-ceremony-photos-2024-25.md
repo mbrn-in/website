@@ -4,7 +4,7 @@ date: 2024-08-19 06:00:00
 month: 2024/08
 year: 2024
 categories: ["photo"]
-desc_short:   Divine Leelas - Celebrating Krishna Janmashtami at SSSIHL Brindavan Campus.
+desc_short:  The Upakarma cermony in Brindavan
 link: https://drive.google.com/drive/folders/1oGY7No-dHfuJWUaX8QLJkq7mIy5mctD_?usp=drive_link
 thumbnail: images/thumbnails/2025/Thread-Changing.jpg
 draft: false
