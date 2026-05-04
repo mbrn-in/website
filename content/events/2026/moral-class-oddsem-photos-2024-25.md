@@ -1,5 +1,5 @@
 ---
-title: Moral Class - EvenSem - Photos- 2025-26
+title: Moral Class - OddSem - Photos- 2025-26
 date: 2025-07-01 09:00:00
 month: 2025/07
 year: 2025

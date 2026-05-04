@@ -2,7 +2,7 @@
 title: Final vocals Competition videos 2024-25
 date: 2024-09-08 06:00:00
 month: 2024/09
-year: 20247
+year: 2024
 categories: ["video"]
 desc_short: Vocals Final Competition 
 link: https://youtu.be/1ex786RxTbw

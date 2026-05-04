@@ -6,7 +6,7 @@ year: 2025
 categories: ["photo"]
 desc_short: Embracing Divine Presence - Orange & White - Friday talk - Students' Heartfelt Experience with Bhagawan Sri Sathya Sai Baba at SSSIHL Brindavan Campus Hostel
 link: https://drive.google.com/drive/folders/116cfKjYkWac-wcjj8NcIH-MzkaghqtqJ?usp=drive_link
-thumbnail: images/thumbnails/2026/Orange&White.jpg
+thumbnail: images/thumbnails/2026/Orange_White_odd_sem.jpg
 draft: false
 ---
 

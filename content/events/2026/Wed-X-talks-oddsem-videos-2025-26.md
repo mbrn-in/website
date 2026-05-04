@@ -6,7 +6,7 @@ year: 2025
 categories: ["video"]
 desc_short: Thoughtful Trials - Student driven wisdom at SSSIHL Brindavan Campus
 link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCaL55UnPb6ARwp0K8Ta69Gx
-thumbnail: images/thumbnails/2026/WedXTalks.jpg
+thumbnail: images/thumbnails/2026/WedXTalks_odd.jpg
 draft: false
 ---
 

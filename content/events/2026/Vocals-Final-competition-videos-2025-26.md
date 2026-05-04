@@ -1,5 +1,5 @@
 ---
-title: Final vocals Competition photos 2025-26
+title: Final vocals Competition Videos 2025-26
 date: 2025-08-10 17:00:00
 month: 2025/08
 year: 2025

@@ -6,7 +6,7 @@ year: 2025
 categories: ["photo"]
 desc_short: Thoughtful Trials - Student driven wisdom at SSSIHL Brindavan Campus
 link: https://drive.google.com/drive/folders/1-YLb7ojUAYIdQi6j0kYn4b-sNY2RkjVb?usp=drive_link
-thumbnail: images/thumbnails/2026/WedXTalks.jpg
+thumbnail: images/thumbnails/2026/WedXTalks_odd.jpg
 draft: false
 ---
 

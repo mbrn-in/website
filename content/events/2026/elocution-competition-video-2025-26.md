@@ -5,7 +5,7 @@ month: 2025/07
 year: 2025
 categories: ["video"]
 desc_short:  Speech Battle - Dynamic Elocution Competition at SSSIHL Brindavan Campus
-link: https://youtu.be/6JSRajlxGHQ
+link: https://www.youtube.com/playlist?list=PLUyvnxCM1pCZcvcG_DCKtBcWj9YCOxsim
 thumbnail: images/thumbnails/2026/Elocution.jpg 
 draft: false
 ---

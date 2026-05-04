@@ -1,5 +1,5 @@
 ---
-title: Arjunas vs Bharatas House Drama Competition Photos 2025-26
+title: Arjunas vs Bharatas House Drama Competition Video 2025-26
 date: 2025-08-17 18:00:00
 month: 2025/08
 year: 2025
